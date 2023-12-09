@@ -1,6 +1,6 @@
 Austin's Code Journal
 
-Why forget what's learned when you can have it as a permanent resource?
+Why forget what's learned when you can have it all as a permanent resource?
 
 Please check out the entries.py file where I cover everything coded by myself on a regular basis.
 

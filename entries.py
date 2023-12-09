@@ -20,4 +20,11 @@
 # https://github.com/nitsua5/js30practice/commits/master
 
 # 12/08/2023
+# I got a late start today but squeezed in some code nonetheless which made me happy because the momentum is definitely building & I'm feeling more comfortable
+# writing my own functions & using different methods. As I continue along this JavaScript course, I'm noticing the continued important role that .addEventListener
+# plays in using vanilla JavaScript. Today's project was redeveloping a dysfunctional video media player. I think the file is a little old itself but I still
+# was able to practice declaring different variables using const, the .this method to direct where the video was being played directly & using fat arrow
+# functions inside of .addEventListener. You can find the last commit I made for that project here: https://github.com/nitsua5/js30practice/commits/master
+
+# 12/09/2023
 # ?

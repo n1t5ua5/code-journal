@@ -1,4 +1,4 @@
-# FALL / WINTER 2023
+# DECEMBER 2023
 
 # 12/06/2023
 # Today I picked up where I left off & started working on this 30 day JavaScript challenge I was told to practice with again & it's made a big difference so far.

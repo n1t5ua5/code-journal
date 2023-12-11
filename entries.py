@@ -27,4 +27,14 @@
 # functions inside of .addEventListener. You can find the last commit I made for that project here: https://github.com/nitsua5/js30practice/commits/master
 
 # 12/09/2023
-# ?
+# Worked a tiny little project that detects which keys have pressed on the keyboard or not. I wrote an if statement that checked if said event happened, which
+# looked for a variable I declared named secretCode. If the secretCode value appeared in the console after being written in the browser then a built in
+# JavaScript function named cornify_add() was called. This built in function is a random thing built by developers that makes raindows & unicorns
+# stuff like that appear in the browser when it it's called, lol. In my spare time I used a CMS program called Square to develop a demo site
+# for a project I'm working. The domain was purchased, it's now hosted by Square & it's live. It needs more content though so I will
+# work on that starting tomorrow while I continue to push through this 30 day coding challenge. Find my most recent commit below
+# https://github.com/nitsua5/js30practice/commits/master
+
+# 12/10/2023
+# ???
+

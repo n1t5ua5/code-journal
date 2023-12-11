@@ -36,5 +36,16 @@
 # https://github.com/nitsua5/js30practice/commits/master
 
 # 12/11/2023
+# After practicing some questions on Codecademy about JavaScript & Python I began working on the JS30 project again, today's challenge is
+# called Slide In on Scroll. I learned about another way to use DevTools, this time with console.count() for printing how many times
+# something has appeared in the console, this time it was with a new function I wrote called checkSlide that ran everytime a user
+# scrolled up or down on the .html page. I finished the challenge & was definitely confused at times but it makes sense with some
+# hindsight. The function checkSlide iterates over each image selected & performs the same operation. Then it calculates the right pixel
+# value for when the slide comes in with some other checks like if the user has scrolled past the image or not. If those conditions
+# are met then a CSS class 'active' is added to the image. Phew, that's a mouthful. I'm calling it quits for today. Visit this url to
+# check out any of the commits I made: https://github.com/nitsua5/js30practice/commits/master
+
+#12/12/2023
 # ???
+
 

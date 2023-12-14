@@ -1,4 +1,24 @@
-# DECEMBER 2023
+# DECEMBER '23
+
+# 12/15/2023
+# ???
+
+# 12/14/2023
+# It's been good being able to learn a little more in my spare time before the year's over. Building & viewing a variety of projects
+# has taught me a lot of random things that I probably wouldn'tve picked up on by myself. I used this to help fine-tune another
+# project I've been working on that didn't even necessarily have to do with the lesson I was learning (it was about adding an
+# addEventListener to detect when a user is scrolling *12/11/23*). But it made me realize the importance of UX when scrolling
+# down/up & so I redesigned the project's homepage. Now I'm working on this mini-project back in JS30 where I'll be working mostly
+# on adjusting CSS in an HTML file to work properly. I'm trying to add 'shadow' to an image by writing an addEventLister to detect
+# when someone moves their mouse over the image. I used DOM manipulation to fetch an element with the class of 'hero' & then find the first
+# h1 element within the '.here' element like this: const hero = document.querySelector('.hero'); const text = hero.querySelector('h1');.
+# Then I created a function named shadow & added an addEventListener to check for an element of 'mousemove' which shows where
+# the user's mouse is. I used the offsetWidth/Height method to show exactly where the mouse is on the page & now wherever I hover,
+# a specific number is returned in the console. I'm feeling a lot more confident in debugging small issues then I did before too. In the
+# past when an error appeared in the console, I got a small wave of panic, but now I just feel reassured everytime it points out
+# any error because it's almost always a syntax issue. The shadow function now shows some color when hovering over it because I added
+# text.style.textShadow. After applying some more styling & math, the cursor is responding perfectly! That's all for today folks.
+# https://github.com/nitsua5/js30practice/commits/master
 
 # 12/13/2023
 # First time utilizing the localStorage method & it's pretty straight forward, it saves what you do onto your local machine. I got

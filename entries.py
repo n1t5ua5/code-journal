@@ -1,7 +1,16 @@
 # DECEMBER 2023
 
 # 12/13/2023
-# ???
+# First time utilizing the localStorage method & it's pretty straight forward, it saves what you do onto your local machine. I got
+# refamiliarized with the JSON.stringify method which is a little more specific then the .toString() method which has more of a general
+# purpose use to display something quickly whereas JSON serilizes the data completely. I also used JSON.parse() again which I've used
+# many times already. It converts whatever it's calling back into it's original state. So here's what's happening with this little menu
+# ordering app: when we add an item we put it in localStorage & then when once the page loads, we check if something is in localStorage
+# or use an empty array as a placeholder. Near the end, event delegation takes place with the toggleDown function by listening for
+# something higher that's called & then inside of it we check for the item we actually want. Essentially everytime a change is made,
+# the same action will be performed inside localStorage & then re-write the list. This one was a little more in depth & I really need
+# to look it over again but for now, that's all for today. Please check the repo for yourself to look over my code & give any feedback!
+# https://github.com/nitsua5/js30practice/commits/master
 
 # 12/12/2023
 # Practice began today by doing something easy with arrays. I started by declraring variables set equal to an array with a list of names as
@@ -48,7 +57,7 @@
 # };
 # const captain = person;
 # captain.number = 99;
-# I'm running out of time to write out the code for the next few ways I learned to copy / reference objects, but I will talk about what
+# I'm running out of time to write out the code but for the next few steps I learned to copy / reference objects, but I will talk about what
 # I wrote on line 99 real quick: const sage = Object.assign({}, savi);  The Object.assign() method is used to copy the properties from
 # the savi object to a new object which in this case is a blank one with nothing in it by default. I'm also going to reverse the
 # direction I'm writing this journal in. Instead of progressively moving down, I'm going up now. Check out the repo for all my code:

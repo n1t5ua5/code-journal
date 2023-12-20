@@ -17,14 +17,27 @@
 # Now I'm going to work on a different project that's about utilizing webcams through code. To begin, we're using Node.js to input
 # npm install & then npm start into the terminal. There is a really powerful dependency used inside of our package.json file so
 # this project can be used on my local machine: "browser-sync": "^2.12.5 <2.23.2". Essentially, you cannot use webcams interchangeably
-# over the internet for obvious privacy concerns. So this dependency is installed to take a photo through the webcam. Now that it's
-# installed, both localhost:3000 & localhost:3001 are utilized so not only can it be used on a local machine, but potentially through
-# a mobile device too. Then inside of my srcipt.js file I wrote a function named getVideo. Inside of the function is a new (for me),
-# built-in method named navigator.mediaDevices.getUserMedia which gets the video inside of the video element & then video is set
-# to true & audio to false. This returns a promise so we use the built-in method of .then & pass a callback function to retrieve
+# over the internet for obvious privacy concerns so it must be tied to a secure origin. Localhost is still considere a secure origin
+# even if the padlock / belt symbol is present like normal sites with https. So this dependency is installed to take a photo through
+# the webcam. Now that it's installed, both localhost:3000 & localhost:3001 are utilized so not only can it be used on a local machine,
+# but potentially through a mobile device too. Then inside of my srcipt.js file I wrote a function named getVideo. Inside of the function
+# is a new (for me), built-in method named navigator.mediaDevices.getUserMedia which gets the video inside of the video element & then video
+# is set to true & audio to false. This returns a promise so we use the built-in method of .then & pass a callback function to retrieve
 # localMediaStream. Finally the getVideo() function is called again in order for this to load. It's working in the console now.
 # 
-# 
+# But then I followed Wes' video some more & the webcam light was on but I was not appearing in the upper right hand corner
+# as it should have worked inititally. He said to declare the video.srcObject equal to window.URL.createObjectURL(localMediaStream);
+# but in the console an error persisted: scripts.js:8 Uncaught TypeError: Cannot read properties of undefined (reading 'getUserMedia')
+# at getVideo (scripts.js:8:28) at scripts.js:19:1. I knew it was calling for an error in regards to getUserMedia, which made sense
+# because the media in literal terms wasn't appearing & sequentially it probably had to do with line 11 given the logic being
+# performed: video.srcObject = window.URL.createObjectURL(localMediaStream);. I also knew I had previously clicked allow when
+# asked for permission by the browser so my setting were correct. I looked inside the files some more & realized Wes left
+# a comment in the scripts-finished.js file after all.
+#  
+# The takePhoto function I wrote is working; I downloaded the image & then opened it to view. I'm happy, this is getting
+# complex but could definitely be used in the future for some sort of project, this really has become a great resource. 
+# I used the debugger method to naviagte through each action being taken, in order not to log millions of pixels to the
+# console via the setInterval function. All the filters are working now, phew, that was a lot.
 
 # 12/19/2023
 # Introduced to the .replace method today when making a function called sortedBands which should display a list of bands in array

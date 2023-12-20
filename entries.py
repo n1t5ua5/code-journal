@@ -1,7 +1,16 @@
 # DECEMBER '23
 
-# 12/15/2023
+# 12/20/2023
 # ???
+
+# 12/19/2023
+# Introduced to the .replace method today when making a function called sortedBands which should display a list of bands in array
+# named bands. Implement logic to match prefixes of "a", "the" or "an" at the beginning of every name: return bandName.replace(
+# /^(a |the |an )/i, '').trim(); The | operator tests if the input is present or not. Then the .sort method is used to see which
+# order the names should be displayed in. Then the bands are displayed using DOM manipulation & finally the .map & .join method
+# are used to create a new array which each band name wrapped in an <li> tag & then brought together into a sigle string. I've
+# used the .sort & .join method before, but .replace definitely earned it's place in my toolbox.
+# As always, check the repo out at https://github.com/nitsua5/js30practice/commits/master.
 
 # 12/14/2023
 # It's been good being able to learn a little more in my spare time before the year's over. Building & viewing a variety of projects

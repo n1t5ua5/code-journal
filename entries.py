@@ -3,7 +3,7 @@
 # 12/21/2023
 # ???
 
-# 12/20/2023
+# 12/20/2023 / repo: github.com/nitsua5/js30practice/commits/master
 # Trying to tally strings with the .reduce method this morning. There is a list of video's time-length as strings & I am going to
 # find the total length of all videos as a number. I've used .reduce before too, so it'll be good to utilize it again & learn
 # something new in the process. First I declared a variabled named timeNodes & set it equal to Array.from(document.querySelectorAll(
@@ -12,8 +12,19 @@
 # the data in a new array containing the values. I revisited using the % operator to return whatever is left over from the seconds
 # variable to determine how many seconds are left from the original <ul> elements with a class of "videos". Everything works, then
 # I calculated the total number of minutes by declaring a variable named mins & setting it equal to Math.floor(secondsLeft / 60);
-# which is basically the same thing I did for secondsLeft.
-# REPO: github.com/nitsua5/js30practice/commits/master
+# which is basically the same thing I did for the secondsLeft variable. Math.floor rounds down to the nearest whole number.
+# 
+# Now I'm going to work on a different project that's about utilizing webcams through code. To begin, we're using Node.js to input
+# npm install & then npm start into the terminal. There is a really powerful dependency used inside of our package.json file so
+# this project can be used on my local machine: "browser-sync": "^2.12.5 <2.23.2". Essentially, you cannot use webcams interchangeably
+# over the internet for obvious privacy concerns. So this dependency is installed to take a photo through the webcam. Now that it's
+# installed, both localhost:3000 & localhost:3001 are utilized so not only can it be used on a local machine, but potentially through
+# a mobile device too. Then inside of my srcipt.js file I wrote a function named getVideo. Inside of the function is a new (for me),
+# built-in method named navigator.mediaDevices.getUserMedia which gets the video inside of the video element & then video is set
+# to true & audio to false. This returns a promise so we use the built-in method of .then & pass a callback function to retrieve
+# localMediaStream. Finally the getVideo() function is called again in order for this to load. It's working in the console now.
+# 
+# 
 
 # 12/19/2023
 # Introduced to the .replace method today when making a function called sortedBands which should display a list of bands in array

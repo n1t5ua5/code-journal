@@ -1,7 +1,34 @@
 # DECEMBER '23
 
-# 12/21/2023
+
+# 12/22/2023
 # ???
+
+
+# 12/21/2023 / repo: github.com/nitsua5/js30practice/commits/master
+# Speech recogniton is going to be the focal point for today's mini-project. Apparently there's a built-in method with Firefox &
+# Chrome window.SpeechRecognition || webkitSpeechRecognition (as of the date of the video which is around five years old). First,
+# I'm figuring out how to at least get the tool to recognize someone talking by creating a new instance of SpeechRecognition();.
+# Then we set the recognition of interimResults equal to the boolean value of true. So as we speak, the recognition works alongside
+# us. As instructed, I utilized Node.js once more by inputting "npm install" followed by "npm start" into my terminal to build
+# a custom server for this project. At this point using these commands feel like muscle memory which definitely makes me happy!
+#
+# Caught another error as I implemented the recognition to begin each time the page was loaded through recognition.start();
+# When I loaded the page, nothing changed. So I went into the console & read an error message that said "Uncaught ReferenceError:
+# recognition is not defined at index-START.html:20:3. When I see these I can almost immediately recognize there was a typo, as I
+# had intentionally defined recognition on line 16 - it was the second line I wrote. I used CTRL+F to scan every instance of the
+# value "recognition" & oddly enough the one on line 16 wasn't appearing in the list. I carefully observed every variable with
+# said value until I realized I didn't add a second 'i' in the word recognition. Problem solved.
+#
+# I used addEventListener on the recognition object so that when 'result' is triggered, the speech recogniton commences. Then I
+# converted the e.results array into a normal JS array using Array.from, after I map over the array using the .map method again
+# like from yesterday's project. Now my speech is being recognized in the console! This is pretty cool, but it only works when
+# you keep talking. If you pause, it stops working too because we are always listening for the 'result' & when that finishes,
+# nothing else is supposed to happen as of now. Gotta fix that by adding in another addEventListener + get it working in the
+# browser too. Text is showing in the DOM, but I need to get it so that it keeps a record of what's said instead of starting
+# over each time. I wrote an if statement that checks if the 'results' are final, then the <p> element is appended o the .words
+# container in the DOM, ensuring that each finalized segment of recognized speech appeared distinctly.
+
 
 # 12/20/2023 / repo: github.com/nitsua5/js30practice/commits/master
 # Trying to tally strings with the .reduce method this morning. There is a list of video's time-length as strings & I am going to
@@ -39,6 +66,7 @@
 # I used the debugger method to naviagte through each action being taken, in order not to log millions of pixels to the
 # console via the setInterval function. All the filters are working now, phew, that was a lot.
 
+
 # 12/19/2023
 # Introduced to the .replace method today when making a function called sortedBands which should display a list of bands in array
 # named bands. Implement logic to match prefixes of "a", "the" or "an" at the beginning of every name: return bandName.replace(
@@ -47,6 +75,7 @@
 # are used to create a new array which each band name wrapped in an <li> tag & then brought together into a sigle string. I've
 # used the .sort & .join method before, but .replace definitely earned it's place in my toolbox.
 # As always, check the repo out at https://github.com/nitsua5/js30practice/commits/master.
+
 
 # 12/14/2023
 # It's been good being able to learn a little more in my spare time before the year's over. Building & viewing a variety of projects
@@ -65,6 +94,7 @@
 # text.style.textShadow. After applying some more styling & math, the cursor is responding perfectly! That's all for today folks.
 # https://github.com/nitsua5/js30practice/commits/master
 
+
 # 12/13/2023
 # First time utilizing the localStorage method & it's pretty straight forward, it saves what you do onto your local machine. I got
 # refamiliarized with the JSON.stringify method which is a little more specific then the .toString() method which has more of a general
@@ -76,6 +106,7 @@
 # the same action will be performed inside localStorage & then re-write the list. This one was a little more in depth & I really need
 # to look it over again but for now, that's all for today. Please check the repo for yourself to look over my code & give any feedback!
 # https://github.com/nitsua5/js30practice/commits/master
+
 
 # 12/12/2023
 # Practice began today by doing something easy with arrays. I started by declraring variables set equal to an array with a list of names as
@@ -128,6 +159,7 @@
 # direction I'm writing this journal in. Instead of progressively moving down, I'm going up now. Check out the repo for all my code:
 # https://github.com/nitsua5/js30practice/commits/master
 
+
 # 12/11/2023
 # After practicing some questions on Codecademy about JavaScript & Python I began working on the JS30 project again, today's challenge is
 # called Slide In on Scroll. I learned about another way to use DevTools, this time with console.count() for printing how many times
@@ -138,6 +170,7 @@
 # are met then a CSS class 'active' is added to the image. Phew, that's a mouthful. I'm calling it quits for today. Visit this url to
 # check out any of the commits I made: https://github.com/nitsua5/js30practice/commits/master
 
+
 # 12/10/2023
 # Worked on a tiny little project that detects which keys have pressed on the keyboard or not. I wrote an if statement that checked if said event happened, which
 # looked for a variable I declared named secretCode. If the secretCode value appeared in the console after being written in the browser then a built in
@@ -147,12 +180,14 @@
 # work on that starting tomorrow while I continue to push through this 30 day coding challenge. Find my most recent commit below
 # https://github.com/nitsua5/js30practice/commits/master
 
+
 # 12/08/2023
 # I got a late start today but squeezed in some code nonetheless which made me happy because the momentum is definitely building & I'm feeling more comfortable
 # writing my own functions & using different methods. As I continue along this JavaScript course, I'm noticing the continued important role that .addEventListener
 # plays in using vanilla JavaScript. Today's project was redeveloping a dysfunctional video media player. I think the file is a little old itself but I still
 # was able to practice declaring different variables using const, the .this method to direct where the video was being played directly & using fat arrow
 # functions inside of .addEventListener. You can find the last commit I made for that project here: https://github.com/nitsua5/js30practice/commits/master
+
 
 # 12/07/2023
 # Documentating everything I'm learning like this helping me a lot, I'm really happy I finally started this. After a few more additons I'll make a basic web
@@ -164,6 +199,7 @@
 # on another item in the form, you will have selected every option in between. That's why I declared variable named inBetween to clarify which items
 # must be selected from the if statement in the handleCheck function. You can find the last commit I made for that project here below
 # https://github.com/nitsua5/js30practice/commits/master
+
 
 # 12/06/2023
 # Today I picked up where I left off & started working on this 30 day JavaScript challenge I was told to practice with again & it's made a big difference so far.

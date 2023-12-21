@@ -28,6 +28,25 @@
 # browser too. Text is showing in the DOM, but I need to get it so that it keeps a record of what's said instead of starting
 # over each time. I wrote an if statement that checks if the 'results' are final, then the <p> element is appended o the .words
 # container in the DOM, ensuring that each finalized segment of recognized speech appeared distinctly.
+#
+# I wanted to practice with a second mini project again today, but apparently the next one on geolocation only works for apple
+# devices & I only use Windows as of now so I'll just skip to the next one about links. As I get closer to finishing this vanilla
+# JavaScript course, I'm starting to look for something new to practice with. Ok, time to learn some more. This time we're
+# replacting something built on Stripe's homepage. Essentially what is happening is that when you hover over different tabs
+# in the navbar, the links reveal a dropdown menu but instead of the normal one you're used to, the menu expands & has
+# unique content. We won't replicate the whole thing today, but start with something small. I used const to declare a
+# variable named "triggers" set equal document.querySelectorAll('a') which selects any <a> element in the DOM & returns
+# a NodeList that match the previous. Then I created a 'span' element with the class of 'highlight' which attaches
+# a message into the consolee of "Highlight!!" when the mouse hovers of any <a> element. It's working so far!!
+# 
+# I've been introduced to a new method named .getBoundingClientRect which if used properly will return the exact location where
+# an element is on the DOM. Now we apply styling to the highlightLink function so that whenever an element is hovered over,
+# not only do we have an exact location of the element, but this time CSS is applied each time. In our case, a highlighter
+# is used. It appears to be working at first glance, but when scrolling down & hovering over some more links, the exact
+# location is not being applied correctly. So in order to make everything match perfectly for this particular application
+# we will make our own unique coordinates. This was accomplished by adjusting the top & left values to account for the scroll
+# position of the webpage. Awesome. Tomorrow I'll do some more + I'm finally going to dive back into recreating an
+# algorithm a friend showed me recently. It can be found on Leetcode too: leetcode.com/problems/valid-parentheses/
 
 
 # 12/20/2023 / repo: github.com/nitsua5/js30practice/commits/master

@@ -1,8 +1,41 @@
 # DECEMBER '23
 
 
-# 12/22/2023
+# 12/29/2023
 # ???
+
+
+# 12/28/2023 / github.com/nitsua5/js30practice/commits/master
+#
+# Reset my mind over the past week. Taking time to pause from thinking critically in this setting is necessary at times in my
+# humble opinion. I still want to write some code before the new year starts there to maintain consistency throughout 2024.
+# The SpeechSynthesis API exists in most browsers, like the SpeechRecognition API I just worked with the other week.
+#
+# The foundational code in the index-START.html file creates a web interface called "The Voiceinator 5000" where users can
+# select voices, adjust speech rate & pitch, input text & trigger speech synthesis using JavaScript's SpeechSynthesisUtterance
+# object, while handling user interactions through event listeners. Some basic styling is included in the style.css file.
+#
+# On line 39 I set msg.text equal to a querySelector where the name is equal to text & then I called the value afterwards.
+# I wrote the msg variable into the console & it's returning the SpeechSynthesisUtterance variable. I can tell it's working
+# because inside the variable is the pre-written text value of "Hello! I love JavaScript 👍".
+#
+# I then learned that SpeechSynthesis is another global variable in the console which when calling .speak, allows you to
+# pass it an utterance. I tried making it work just now with the msg variable, but it's returning undefined because the
+# program still can't officially detect any speech just yet.
+# 
+# Next I wrote an EventListener for the speechSynthesis global variable which called the 'voiceschanged element' & the 
+# populateVoices function which is being written above it. The voices variable inside it is set equal this.getVoices(), which
+# is another global variable & finally I logged the voices variable to the console to check what would be returned.
+#
+# Each voice is now being displayed in the console upon the page loading, inside of the SpeechSynthesisVoice object. These are
+# the contents inside 9 - default: false, lang: "fr-FR", localService: false, name: "Google français", voiceURI: "Google français".
+#
+# Now I am going to loop over the all of the voices & set them as options in the Select a Voice dropdown menu. I used the .map
+# & .join methods once more to display the options when called via the voice function which includes the .name & .lang attributes.
+# I also changed the voiceOptions variable to now use the .innerHTML method on a variable named voicesDropdown set equal to voices.
+#
+# It's working so far! I can see a new dropdown menu with each voice. I love this feeling. Now it's time to get the voice detected.
+# 
 
 
 # 12/21/2023 / repo: github.com/nitsua5/js30practice/commits/master

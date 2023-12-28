@@ -24,8 +24,8 @@
 # program still can't officially detect any speech just yet.
 # 
 # Next I wrote an EventListener for the speechSynthesis global variable which called the 'voiceschanged element' & the 
-# populateVoices function which is being written above it. The voices variable inside it is set equal this.getVoices(), which
-# is another global variable & finally I logged the voices variable to the console to check what would be returned.
+# populateVoices function which is being written above it. The voices variable inside it is set equal this.getVoices(), &
+# finally I logged the voices variable to the console to check what would be returned.
 #
 # Each voice is now being displayed in the console upon the page loading, inside of the SpeechSynthesisVoice object. These are
 # the contents inside 9 - default: false, lang: "fr-FR", localService: false, name: "Google français", voiceURI: "Google français".
@@ -34,7 +34,26 @@
 # & .join methods once more to display the options when called via the voice function which includes the .name & .lang attributes.
 # I also changed the voiceOptions variable to now use the .innerHTML method on a variable named voicesDropdown set equal to voices.
 #
-# It's working so far! I can see a new dropdown menu with each voice. I love this feeling. Now it's time to get the voice detected.
+# It's working so far! I can see a new dropdown menu with each voice & when I pass the utterance into the console now, a voice is
+# returning the default text that I wrote above with the emoji. I also tried changing the value of msg via the console & the audio is
+# being played now too. I love this feeling. Now it's time to get the options to actually work once selected.
+# 
+# I wrote a new function named setVoice & console.logged this.value which corresponds to a new EventListener for the voicesDropdown
+# variable. It calls 'change' & the setVoice function. Next we set msg.voice is equal to voices.find which loops over the list to find
+# the correct voice attribute that responds to the option being selected. 
+#
+# But nothing is working in the console. When I input speechSynthesis.speak(msg), I hear the old the original voice of 'David',
+# however once I select another name & input the same command into the console, nothing changes. I feel ike everything should
+# work just fine... what could it be? Instead of panicking, I paused & rewinded the tutorial. 
+#
+# It looked like everything I was supposed to do checked out & there weren't any errors in the console either...
+# I scanned my code like a hawk to see if something else had transpired & low & behold I had a syntax issue. Instead of 
+# checking if voice.name matched this.value, I had written this.valaue. That was easy & now it's all working as it should.
+#
+# A function named toggle is written now to switch between each voice selected. I call speechSynthesis.cancel() to stop it from
+# speaking & then speechSynthesis.speak(msg) to start it all over again. toggle() is now being called within the setVoice function
+# on the next line & now everything is working when it's toggled between the different options just like it should.
+#
 # 
 
 

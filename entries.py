@@ -54,7 +54,13 @@
 # speaking & then speechSynthesis.speak(msg) to start it all over again. toggle() is now being called within the setVoice function
 # on the next line & now everything is working when it's toggled between the different options just like it should.
 #
-# 
+# A new event listener is added next so that forEach of the 'options' selected, we wait for the setOption function to be
+# called. After the toggle function the setOption is created & accepts msg[this.value] set equal to this.value which is
+# whatever the value selected currently is. The pitch & rate knobs are working properly now too & it's weird, lol.
+#
+# In succession are the buttons that need to be listened to. So I add a fourth one beneath the other three which
+# listens for the speakButton which simply toggles when clicked. The stopButton however looks for toggle(false) to
+# be called within a fat arrow function. Lastly I will add the .filter method inside of the populateVoices function.
 
 
 # 12/21/2023 / repo: github.com/nitsua5/js30practice/commits/master

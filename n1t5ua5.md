@@ -4,8 +4,6 @@ JANUARY 2024
 Thursday, 01/04/24
 ???
 
-???
-
 
 Wednesday, 01/03/23
 https://github.com/nitsua5/multiple-choices

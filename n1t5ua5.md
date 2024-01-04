@@ -1,23 +1,26 @@
 JANUARY 2024
 
-01/04/24 / ?
+
+Thursday, 01/04/24
+???
 
 ???
 
 
-01/03/23 / https://github.com/nitsua5/multiple-choices
+Wednesday, 01/03/23
+https://github.com/nitsua5/multiple-choices
 
 I created a small game using python to help study for anything I want to learn more about. After being properly forked &
 cloned, users can input their own unique datasets & then play the game when running 'python main.py' inside their own
-terminal. Questions & answers are formatted in the classic multiple choice. A, B, C, D style.
+terminal. Questions & answers are formatted in classic A, B, C, D multiple choice style.
 
-Later on this week I'll write more in detail about it, but for now I'm redesigning my portfolio that I built using jQuery
-& wrote a function in vanilla JavaScript to make the application a little more dynamic.
+Later on this week I'll write more in detail about it, but for now I'm redesigning my portfolio that I built using jQuery. I wrote a function using vanilla JavaScript to make all h4 elements flash on & off to make the application a little more dynamic. Finished the day by practicing some more Python & JavaScript via Codecademy trivia.
 
 
 DECEMBER 2023
 
-12/28/23 / https://github.com/nitsua5/js30practice/commits/master
+12/28/23
+https://github.com/nitsua5/js30practice/commits/master
 
 Reset my mind over the past week. Taking time to pause from thinking critically in this setting is necessary at times in my
 humble opinion. I still want to write some code before the new year starts there to maintain consistency throughout 2024.

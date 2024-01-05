@@ -1,9 +1,13 @@
 # JANUARY 2024
 
 # Friday, 01/05/24
+https://github.com/nitsua5/js30practice/commits/master
+
 I started another private repo, this time for all the random logical problems I find from places like Leetcode & such. It'll be good to have it as a reference to go back to & upload all the past one's into one spot. I want to create a new Leetcode problem, it'll be about human verification. 
 
+Working with addEventListenders today. I was just introduced to the capture object which according to Wes is a boolean value that specifies whether an event should be handled during the event capturing phase (true) or during the event bubbling phase (false). 
 
+Now we are using the stopPropagation method to stop triggering events from happening. Next the once property will be set to true underneath the capture property to unbind itself from the event. He explains that this sort of function could be used in store checkouts online where you do not want someone to be able to click something more then once. This was a mouthfull but definitely helpful.
 
 # Thursday, 01/04/24
 # https://github.com/nitsua5/js30practice/commits/master

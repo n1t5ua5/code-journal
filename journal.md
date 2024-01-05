@@ -1,10 +1,5 @@
 # JANUARY 2024
 
-
-# Friday, 01/05/24
-# ???
-
-
 # Thursday, 01/04/24
 # https://github.com/nitsua5/js30practice/commits/master
 

@@ -1,9 +1,14 @@
 # JANUARY 2024
 
+# Friday, 01/05/24
+I started another private repo, this time for all the random logical problems I find from places like Leetcode & such. It'll be good to have it as a reference to go back to & upload all the past one's into one spot. I want to create a new Leetcode problem, it'll be about human verification. 
+
+
+
 # Thursday, 01/04/24
 # https://github.com/nitsua5/js30practice/commits/master
 
-I spent a long time today fixing up my portfolio. I took the vanilla JS & stored it in a main.js file to save some space, fixed up some styling too. Now I finally feel confident sharing it with others. It's hosted on Pair already, but now it's on GitHub too: https://github.com/nitsua5/portfolio.
+I spent a long time today fixing up my portfolio. I took the vanilla JS & stored it in a main.js file to save some space, fixed up some styling too. Now I finally feel confident sharing it with others. It's hosted on Pair already, but now it's on GitHub too: https://github.com/n1t5ua5/portfolio.
 
 Back at the JavaScript30 challenge, today is all about keeping the position of the nav in place. I feel like I've been going into the weeds a little too much on some of my previous entries. So today, I'll focus mostly on the topic of something I learned new today as opposed to going thru every line of code.
 

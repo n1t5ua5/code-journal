@@ -1,22 +1,22 @@
-JANUARY 2024
+#JANUARY 2024
 
 
-Friday, 01/05/24
-???
+# Friday, 01/05/24
+# ???
 
 
-Thursday, 01/04/24
-https://github.com/nitsua5/js30practice/commits/master
+# Thursday, 01/04/24
+# https://github.com/nitsua5/js30practice/commits/master
 
 I spent a long time today fixing up my portfolio. I took the vanilla JS & stored it in a main.js file to save some space, fixed up some styling too. Now I finally feel confident sharing it with others. It's hosted on Pair already, but now it's on GitHub too: https://github.com/nitsua5/portfolio.
 
 Back at the JavaScript30 challenge, today is all about keeping the position of the nav in place. I feel like I've been going into the weeds a little too much on some of my previous entries. So today, I'll focus mostly on the topic of something I learned new today as opposed to going thru every line of code.
 
+Using the transform property to maintain an elements initial demensions proved to be super useful; I already know a project that could use something like this.
 
 
-
-Wednesday, 01/03/23
-https://github.com/nitsua5/multiple-choices
+# Wednesday, 01/03/23
+# https://github.com/nitsua5/multiple-choices
 
 I created a small game using python to help study for anything I want to learn more about. After being properly forked &
 cloned, users can input their own unique datasets & then play the game when running 'python main.py' inside their own
@@ -25,10 +25,10 @@ terminal. Questions & answers are formatted in classic A, B, C, D multiple choic
 Later on this week I'll write more in detail about it, but for now I'm redesigning my portfolio that I built using jQuery. I wrote a function using vanilla JavaScript to make all h4 elements flash on & off to make the application a little more dynamic. Finished the day by practicing some more Python & JavaScript via Codecademy trivia.
 
 
-DECEMBER 2023
+# DECEMBER 2023
 
-12/28/23
-https://github.com/nitsua5/js30practice/commits/master
+# 12/28/23
+# https://github.com/nitsua5/js30practice/commits/master
 
 Reset my mind over the past week. Taking time to pause from thinking critically in this setting is necessary at times in my
 humble opinion. I still want to write some code before the new year starts there to maintain consistency throughout 2024.
@@ -86,7 +86,7 @@ listens for the speakButton which simply toggles when clicked. The stopButton ho
 be called within a fat arrow function. Lastly I will add the .filter method inside of the populateVoices function.
 
 
-12/21/2023 / repo: github.com/nitsua5/js30practice/commits/master
+# 12/21/2023 / repo: github.com/nitsua5/js30practice/commits/master
 Speech recogniton is going to be the focal point for today's mini-project. Apparently there's a built-in method with Firefox &
 Chrome window.SpeechRecognition || webkitSpeechRecognition (as of the date of the video which is around five years old). First,
 I'm figuring out how to at least get the tool to recognize someone talking by creating a new instance of SpeechRecognition();.
@@ -130,7 +130,7 @@ position of the webpage. Awesome. Tomorrow I'll do some more + I'm finally going
 algorithm a friend showed me recently. It can be found on Leetcode too: leetcode.com/problems/valid-parentheses/
 
 
-12/20/2023 / repo: github.com/nitsua5/js30practice/commits/master
+# 12/20/2023 / repo: github.com/nitsua5/js30practice/commits/master
 Trying to tally strings with the .reduce method this morning. There is a list of video's time-length as strings & I am going to
 find the total length of all videos as a number. I've used .reduce before too, so it'll be good to utilize it again & learn
 something new in the process. First I declared a variabled named timeNodes & set it equal to Array.from(document.querySelectorAll(
@@ -167,7 +167,7 @@ I used the debugger method to naviagte through each action being taken, in order
 console via the setInterval function. All the filters are working now, phew, that was a lot.
 
 
-12/19/2023
+# 12/19/2023
 Introduced to the .replace method today when making a function called sortedBands which should display a list of bands in array
 named bands. Implement logic to match prefixes of "a", "the" or "an" at the beginning of every name: return bandName.replace(
 /^(a |the |an )/i, '').trim(); The | operator tests if the input is present or not. Then the .sort method is used to see which
@@ -177,7 +177,7 @@ used the .sort & .join method before, but .replace definitely earned it's place 
 As always, check the repo out at https://github.com/nitsua5/js30practice/commits/master.
 
 
-12/14/2023
+# 12/14/2023
 It's been good being able to learn a little more in my spare time before the year's over. Building & viewing a variety of projects
 has taught me a lot of random things that I probably wouldn'tve picked up on by myself. I used this to help fine-tune another
 project I've been working on that didn't even necessarily have to do with the lesson I was learning (it was about adding an
@@ -195,7 +195,7 @@ text.style.textShadow. After applying some more styling & math, the cursor is re
 https://github.com/nitsua5/js30practice/commits/master
 
 
-12/13/2023
+# 12/13/2023
 First time utilizing the localStorage method & it's pretty straight forward, it saves what you do onto your local machine. I got
 refamiliarized with the JSON.stringify method which is a little more specific then the .toString() method which has more of a general
 purpose use to display something quickly whereas JSON serilizes the data completely. I also used JSON.parse() again which I've used
@@ -208,7 +208,7 @@ to look it over again but for now, that's all for today. Please check the repo f
 https://github.com/nitsua5/js30practice/commits/master
 
 
-12/12/2023
+# 12/12/2023
 Practice began today by doing something easy with arrays. I started by declraring variables set equal to an array with a list of names as
 strings. Then adding more names to the original array & comparing it with a second variable that was set equal to the previous variable.
 ...here's what it looked like below..

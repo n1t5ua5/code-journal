@@ -2,4 +2,4 @@ N1T5UA'5 CODE JOURNAL
 
 This is where I write down most of these things coded by myself on a regular basis.
 
-Even though journailing is the main priority for this little project of mine, eventually it'll become it's own live, open-source application
+Even though journaling is the main priority for this little project of mine, eventually it'll become it's own live, open-source application.

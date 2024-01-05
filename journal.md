@@ -8,7 +8,7 @@ Friday, 01/05/24
 Thursday, 01/04/24
 https://github.com/nitsua5/js30practice/commits/master
 
-I spent a long time this morning fixing up my portfolio. I took the vanilla JS & stored it in a main.js file to save some space. Fixed up some styling too. I finally feel confident sharing it with others. It's up on GitHub too, even though I've hosted it on Pair: https://github.com/nitsua5/portfolio
+I spent a long time today fixing up my portfolio. I took the vanilla JS & stored it in a main.js file to save some space, fixed up some styling too. Now I finally feel confident sharing it with others. It's hosted on Pair already, but now it's on GitHub too: https://github.com/nitsua5/portfolio.
 
 Back at the JavaScript30 challenge, today is all about keeping the position of the nav in place. I feel like I've been going into the weeds a little too much on some of my previous entries. So today, I'll focus mostly on the topic of something I learned new today as opposed to going thru every line of code.
 

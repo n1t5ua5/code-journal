@@ -1,5 +1,9 @@
 # JANUARY 2024
 
+# Saturday, 01/06/24
+
+I've been getting carried away with my making my little portfolio site more responsive & now it really is. I had done almost everything planned for it before, but it was still kind of staticky. It's pretty late now so I'm gunna go back to reading tonight & solve some puzzles on Codecademy again.
+
 # Friday, 01/05/24
 https://github.com/nitsua5/js30practice/commits/master
 

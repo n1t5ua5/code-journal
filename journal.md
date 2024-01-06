@@ -13,7 +13,7 @@ Later on in the day I implemented a day / night mode toggle button on my portfol
 
 
 # Thursday, 01/04/24
-# https://github.com/nitsua5/js30practice/commits/master
+https://github.com/nitsua5/js30practice/commits/master
 
 I spent a long time today fixing up my portfolio. I took the vanilla JS & stored it in a main.js file to save some space, fixed up some styling too. Now I finally feel confident sharing it with others. It's hosted on Pair already, but now it's on GitHub too: https://github.com/n1t5ua5/portfolio.
 
@@ -23,7 +23,7 @@ Using the transform property to maintain an elements initial demensions proved t
 
 
 # Wednesday, 01/03/23
-# https://github.com/nitsua5/multiple-choices
+https://github.com/nitsua5/multiple-choices
 
 I created a small game using python to help study for anything I want to learn more about. After being properly forked &
 cloned, users can input their own unique datasets & then play the game when running 'python main.py' inside their own

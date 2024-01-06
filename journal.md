@@ -7,7 +7,10 @@ I started another private repo, this time for all the random logical problems I 
 
 Working with addEventListenders today. I was just introduced to the capture object which according to Wes is a boolean value that specifies whether an event should be handled during the event capturing phase (true) or during the event bubbling phase (false). 
 
-Now we are using the stopPropagation method to stop triggering events from happening. Next the once property will be set to true underneath the capture property to unbind itself from the event. He explains that this sort of function could be used in store checkouts online where you do not want someone to be able to click something more then once. This was a mouthfull but definitely helpful.
+Now we are using the stopPropagation method to stop triggering events from happening. Next the once property will be set to true underneath the capture property to unbind itself from the event. He explains that this sort of function could be used in store checkouts online where you do not want someone to be able to click something more then once. This was a mouthfull but definitely insightful.
+
+Later on in the day I implemented a day / night mode toggle button on my portfolio along with some other minor styling updates. I went back to Codecademy & practiced some more random JavaScript & Python questions + I finally made my own 'Leetcode'-like logicical question too! It's very simple, but I'm feally proud of it. I've signed up for a Kindle account so I can read on the go & now as I'm winding down I finally picked back up the hardcover copy of "Practices of the Python Pro" by Dane Hillard that my friend lent me. I'm feeling increasingly accomplished tonight.
+
 
 # Thursday, 01/04/24
 # https://github.com/nitsua5/js30practice/commits/master

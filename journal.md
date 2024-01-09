@@ -1,5 +1,14 @@
 # JANUARY 2024
 
+
+# Monday, 01/08/24
+https://github.com/nitsua5/js30practice/commits/master
+
+Fixed some icon resolution in my portfolio again 'cuz it just wasn't good enough. Now I'm working on a little mini-project about styling navs. After adding writing some addEventListeners & functions (handleEnter & handleLeave), the coordinates on the page are being consoled correctly because the console.log(dropdownCoords) statement inside the handleEnter function is successfully logging the coordinates of the dropdown menu to the console when the mouse enters the navigation element.
+
+After I updated the width & height of the background element based on the dimensions of the dropdown menu (coords) & then the background element finally became responsive to the size of each specific dropdown menu when hovered over. A few more changes & now the code now accurately calculates the dropdown menu's position relative to the .top element & adjusts the background size & position accordingly. 
+
+
 # Sunday, 01/07/24
 
 Couldn't help but pick up the portfolio project one more time because the resolution on the mobile versions backdrop wasn't clear enough. Finally found one that works for it well. Thought about going back to that vanilla JavaScript course again but I think it's better to let the batteries recharge some more. 

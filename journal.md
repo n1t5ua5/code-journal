@@ -1,6 +1,14 @@
 # JANUARY 2024
 
 
+# Tuesday, 01/09/24
+https://github.com/nitsua5/js30practice/commits/master
+
+Tinkered with an old project that uses php earlier today. I didn't mess around with the logic too much, I mostly altered some naming conventions & that added the files to a new private repo I made for it. Now I'm heading back to finish some more of that vanilla JavaScript challenge I've been working on. 
+
+Scrolling was the theme of today's lesson. I used the offsetLeft method once more to by subtracting slider.offsetLeft from e.pageX. This calculates the horizontal distance between the mouse click & the left edge of the .items element. Three more days left! Then I'll start a new course on Redux.
+
+
 # Monday, 01/08/24
 https://github.com/nitsua5/js30practice/commits/master
 

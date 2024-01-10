@@ -4,7 +4,7 @@
 # Wednesday, 01/10/24
 https://github.com/nitsua5/js30practice/commits/master
 
-Later today I'll create another private repo for a tic-tac-toe game I made awhile back because I wanted to center it on all devices instead of residing on the left side like it currently does. It'll include to a second one I made as well! I also went back to that php project to fix some naming conventions one more time, I think I can finally put it to rest now.
+Later today I'll create another private repo for a tic-tac-toe game I made awhile back because I wanted to center it on all devices instead of residing on the left side like it currently does. It'll include to a second one I made as well! I also went back to that php project to fix some naming conventions one more time, I think I can finally put it to rest now. Update: the private repo has been created & I applied the d-n-r style.
 
 I've got two days left of this vanilla JavaScript challenge my friend sent to me, my reflexes are a lot more keen now. Today I'm working on a video speed controller. The .mp4 wasn't working so I'll post a message in Slack if it isn't working by tomorrow. I tried using different browsers & inputting different .mp4 files but that didn't seem to do it either.
 

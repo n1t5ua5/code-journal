@@ -4,9 +4,11 @@
 # Wednesday, 01/10/24
 https://github.com/nitsua5/js30practice/commits/master
 
-I created another private repo for a tic-tac-toe game I made awhile back because I wanted to center it on all devices instead of residing on the left side like it currently does. I also went back to that php project to fix some naming conventions one more time, I think I can finally put it to rest now.
+Later today I'll create another private repo for a tic-tac-toe game I made awhile back because I wanted to center it on all devices instead of residing on the left side like it currently does. It'll include to a second one I made as well! I also went back to that php project to fix some naming conventions one more time, I think I can finally put it to rest now.
 
-I've got two days left of this vanilla JavaScript challenge my friend sent to me, my reflexes are a lot more keen now. Today I'm working on a video speed controller. 
+I've got two days left of this vanilla JavaScript challenge my friend sent to me, my reflexes are a lot more keen now. Today I'm working on a video speed controller. The .mp4 wasn't working so I'll post a message in Slack if it isn't working by tomorrow. I tried using different browsers & inputting different .mp4 files but that didn't seem to do it either.
+
+I followed along firdt by adding a new addEventListerner which waited for the object of mousemouve. This should show an event in the console but the only thing I get is an error about that ol' .mp4 (I tried simply adding an s to http but I still recieved an error in the console). The code's ready now for double checking tomorrow, considering there were also no notes about this error in the GitHub notes.
 
 
 # Tuesday, 01/09/24

@@ -1,6 +1,14 @@
 # JANUARY 2024
 
 
+# Wednesday, 01/10/24
+https://github.com/nitsua5/js30practice/commits/master
+
+I created another private repo for a tic-tac-toe game I made awhile back because I wanted to center it on all devices instead of residing on the left side like it currently does. I also went back to that php project to fix some naming conventions one more time, I think I can finally put it to rest now.
+
+I've got two days left of this vanilla JavaScript challenge my friend sent to me, my reflexes are a lot more keen now. Today I'm working on a video speed controller. 
+
+
 # Tuesday, 01/09/24
 https://github.com/nitsua5/js30practice/commits/master
 

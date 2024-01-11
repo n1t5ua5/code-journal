@@ -1,6 +1,13 @@
 # JANUARY 2024
 
 
+# Thursday, 01/11/24
+https://github.com/nitsua5/js30practice/commits/master
+
+Fixing up a countdown clock today. I got it to work in the console first by declaring a global variable of let dountdown & then writing a function named timer that expects a parameter of seconds & another beneath it named displayTimeLeft which also expects a parameter of seconds. I utilized the Date.now() method to get the current time in milliseconds. It then calculates the end time of the countdown by adding the input seconds to the current time. Then displayTimeLeft runs to initially show the time left. It logs the remaining seconds to the console & bam. timer(10) works in the console & stops at 1, next I input timer(100) & it returned 100 numbers in the console.
+
+
+
 # Wednesday, 01/10/24
 https://github.com/nitsua5/js30practice/commits/master
 

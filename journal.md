@@ -1,6 +1,4 @@
-# JANUARY 2024
-
-# Friday, 01/12/24
+# Friday, 01/12/2024
 https://bit.ly/3HjLxde
 
 I spent the morning doing some debugging of my own code in a private repo. I kept incurring an error in the console of my browser that stated how the "Number of translated a elements does not match. applyTranslations @ main.js:66 toggleTranslation @ main.js:34 onclick @ (index):81. From that I could tell that the source of the problem originated with my applyTranslate function & how it accepted a elements. It was accepting a elements from the entire program (there are eleven pairs in total), except I only needed the a elements within the nav element that had a class of "green-button" to be translated because the program names generally don't change from english to spanish, just how they're pronounced, so I only wanted the text in the translateButton to toggle along with the h1 & h4 elements to change. I altered the right variables inside of main.js to reflect their proper order & then altered the applyTranslate function so it only accepted those specific a elements. It took awhile to reconfigure it correctly + I had to alter the toggleTranslation function & the onClick event in a similar fashion.

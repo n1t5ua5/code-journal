@@ -1,3 +1,8 @@
+# Monday, 01/12/2024
+https://github.com/n1t5ua5
+
+Spent today reading, practicing with flash cards on Codecademy & changing the domain mapping for a few of my projects so they all work with the right URL's in the browser, SSL certificate included too via Let's Encrypt. Ready for tomorrow, where I'll dive into learning more about mass-producing food from Nucleate Cultivate! Their hackathon that I was accepted to participate in just started & I have about two weeks to finish this section of it.
+
 # Friday, 01/12/2024
 https://github.com/n1t5ua5
 

@@ -1,7 +1,18 @@
+# Wednesday, 01/17/2024
+
+Started off by getting refamiliarized myself with phpMyAdmin from an old demo of mine. I wanted to make sure I could still download SQL statements of each pseudo-payment made to the database, in case anyone needed a receipt of payment. I found the right info after carefully looking inside some old php files & now I'm good to go. Earlier I had resolved some issue I was recieving in the console of my browser due to this message: "A form field element should have an id or name attribute. A form field element has neither an id nor a name attribute. This might prevent the browser from correctly autofilling the form.
+To fix this issue, add a unique id or name attribute to a form field. This is not strictly needed, but still recommended even if you have an autocomplete attribute on the same element."
+
+The console pointed directly towards an input element on line 40 of the Home.jsx file which made fixing the error relatively straightforward. I added a custom if of id="teamSearch" & the error ceased from persisting. I then scanned the rest of the app & now I'm seeing something similar about the form on the Login page, "A form field has an id or name attribute that the browser's autofill recognizes. However, it doesn't have an autocomplete attribute assigned. This might prevent the browser from correctly autofilling the form. To fix this issue, provide an autocomplete attribute."
+
+Id is a property I'm used to using but autoComplete is a little more raw albeit I've used it before inside of forms. After doing some research online & looking over my code, I input a value of password, but then I got another error about this being a "non-standard practice" so I had to search some more & eventually found out that if I set the value to current-password, it should work. I tried it out & bam. Tomorrow I need to resolve a 500 error I'm getting within FastAPI.
+
+
 # Monday, 01/15/2024
 https://github.com/n1t5ua5
 
 Spent today reading, practicing with flash cards on Codecademy & changing the domain mapping for a few of my projects so they all work with the right URL's in the browser, SSL certificate included too via Let's Encrypt. Ready for tomorrow, where I'll dive into learning more about mass-producing food from Nucleate Cultivate! Their hackathon that I was accepted to participate in just started & I have about two weeks to finish this foundational section. I wonder what we'll build...
+
 
 # Friday, 01/12/2024
 https://github.com/n1t5ua5

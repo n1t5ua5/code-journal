@@ -1,3 +1,10 @@
+# Friday, 01/19/2024
+
+Eagerly awaiting my first college course on Computer Science! It's called Microcomputer Applications & it starts on the 30th, I can't wait to delve into some foundational stuff. I feel really confident in my basics going forward so though I'm ready for a challenge, I think this first class is going to be pretty easy overall. We'll be covering hardware & software, so I now I really have zero excuses left to buy a Raspberry Pi set to tinker with in my spare time. 
+
+Haven't done any literal coding in the past two days 'cuz I've been stuck in college-mode, but I met up with fellow SWE's on Thursday which was awesome. We're gunna start collaborating on a pet-adoption app which I feel very passionately about for so many reasons but mostly because non-human animals deserve so much more than what they're given here on Earth. Other than that I kept up my codecademy practice streak + I'm slowly unpacking that Redux eBook at the end of each day.
+
+
 # Wednesday, 01/17/2024
 
 Started off by getting refamiliarized myself with phpMyAdmin from an old demo of mine. I wanted to make sure I could still download SQL statements of each pseudo-payment made to the database, in case anyone needed a receipt of payment. I found the right info after carefully looking inside some old php files & now I'm good to go. Earlier I had resolved some issue I was recieving in the console of my browser due to this message: "A form field element should have an id or name attribute. A form field element has neither an id nor a name attribute. This might prevent the browser from correctly autofilling the form.

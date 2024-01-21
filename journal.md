@@ -1,3 +1,9 @@
+# Saturday, 01/20/2024
+https://vegconomist.com/products-launches/solar-foods-fazer-unveil-worlds-first-air-protein-chocolate-bar-singapore/
+
+While doing some independent reading today I got a ton of inspiration for building useful software in the Hackathon I got accepted to participate in by Nucleate Cultivate. It's about how a company uses precision fermentation to form proteins out of microbes found in the air such as carbon dioxide. The absurd fact that this is even happening to begin with coupled with how it's being used in a food that's not commonly looked to for protein is an ingenious example of innovaton. I've heard of a similar process a few years ago, but it was about utilizing the air to create water, due to its abundant source of hydrogen. These are the exact sort of solutions we need in order to project ourselves into the best future possible. The Hackathon's provided some more reading for my team & so I'm just focusing on that for the rest of tonight!
+
+
 # Friday, 01/19/2024
 
 Eagerly awaiting my first college course on Computer Science! It's called Microcomputer Applications & it starts on the 30th, I can't wait to delve into some foundational stuff. I feel really confident in my basics going forward so though I'm ready for a challenge, I think this first class is going to be pretty easy overall. We'll be covering hardware & software, so I now I really have zero excuses left to buy a Raspberry Pi set to tinker with in my spare time. 

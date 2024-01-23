@@ -1,6 +1,6 @@
 # Tuesday, 01/23/2024
 
-Been working on resolving this 500 response for more than a couple of days now & I still can't figure out what's going wrong. I'm getting a 200 response in the browser for my localhost version, but the deployed one is all jammed up. I talked with some friends about it & they're going to look at it some more while I delve into it again because the only solveable error I see is this one.
+Been working on resolving this 500 response for more than a couple of days now & I still can't figure out what's going wrong. I'm getting a 200 response in the browser for my localhost version, but the deployed one is all jammed up. I talked with some friends about it & they're going to look at it some more while I delve into it again because the only solveable error I see is this one. Here's what I know for sure: I was getting a 200 response about a month prior & I never touched it again until this past week & a half but I never edited the code during this period, nor did my team. Nothing unusual is being returned in the fastapi logs inside of Docker & the project as a whole is functioning fine with the exception of this crucial component.
 
 
 # Saturday, 01/20/2024

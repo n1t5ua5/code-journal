@@ -1,3 +1,8 @@
+# Tuesday, 01/23/2024
+
+Been working on resolving this 500 response for more than a couple of days now & I still can't figure out what's going wrong. I'm getting a 200 response in the browser for my localhost version, but the deployed one is all jammed up. I talked with some friends about it & they're going to look at it some more while I delve into it again because the only solveable error I see is this one.
+
+
 # Saturday, 01/20/2024
 https://vegconomist.com/products-launches/solar-foods-fazer-unveil-worlds-first-air-protein-chocolate-bar-singapore/
 

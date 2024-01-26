@@ -1,3 +1,8 @@
+# Thursday, 01/25/2024
+
+My friend lent me another book on coding which was highly appreciated because I seriously need to learn about more data structures. The book's called "Cracking the Coding Interview: 189 Programming Questions & Solutions" written by Gayle Laakman McDowell. From what I'm told, most of the questions are aqnostic to which language it's used with but Java & C++ are frequently cited; I've been looking for an excuse to learn more about those two specifically so I'm happy I finally have a good reason now. On a separate note, I was also reminded of the importance of utilizing a deployed projects logs to debug errors & gained a fresh perspective on solving a unique problem I'm facing regarding a random 500 response inside a project of mine which I'll tackle on this upcoming Monday.
+
+
 # Wednesday, 01/24/2024
 https://github.com/n1t5ua5/free-programming-books
 

@@ -1,3 +1,8 @@
+# Friday, 01/29/2024
+
+As I prepare for my Microcomputer Applications course tomorrow morning, I want to finish this ol' soccer project. After I've cd'd into the proper directory, I input the command docker-compose up --build into my terminal, I waited about five minutes for the webpack to compile successfully & then input glv-cloud-cli logs -a fastapi to view the logs & locate a more clear reason for this 500 error I've incurred. 
+
+
 # Thursday, 01/25/2024
 
 My friend lent me another book on coding which was highly appreciated because I seriously need to learn about more data structures. The book's called "Cracking the Coding Interview: 189 Programming Questions & Solutions" written by Gayle Laakman McDowell. From what I'm told, most of the questions are aqnostic to which language it's used with but Java & C++ are frequently cited; I've been looking for an excuse to learn more about those two specifically so I'm happy I finally have a good reason now. On a separate note, I was also reminded of the importance of utilizing a deployed projects logs to debug errors & gained a fresh perspective on solving a unique problem I'm facing regarding a random 500 response inside a project of mine which I'll tackle on this upcoming Monday.
@@ -7,6 +12,7 @@ My friend lent me another book on coding which was highly appreciated because I 
 https://github.com/n1t5ua5/free-programming-books
 
 Catching up on some long overdue reading on Redux tonight! I've been stuck on college mode as I've been getting my grant & load situation configured & thankfully I was approved for some student aid. I found another repo on here called Free Programming Books which also sheds light on some other material I'll have to understand as time goes on like expanding my knowledge of data structures in my spare time too. Grateful for an abundance of resources.
+
 
 # Tuesday, 01/23/2024
 

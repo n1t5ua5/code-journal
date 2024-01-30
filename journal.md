@@ -1,6 +1,11 @@
-# Friday, 01/29/2024
+# Tuesday, 01/30/2024
 
-As I prepare for my Microcomputer Applications course tomorrow morning, I want to finish this ol' soccer project. After I've cd'd into the proper directory, I input the command docker-compose up --build into my terminal, I waited about five minutes for the webpack to compile successfully & then input glv-cloud-cli logs -a fastapi to view the logs & locate a more clear reason for this 500 error I've incurred. 
+My first class of college level computer science went really well; my professor seems like a really nice person! We mainly just reviewed the class syllablus, opened our textbooks for the first time & other basic stuff like how to use this program called Canvas which contains all the info we need for each module. 
+
+
+# Monday, 01/29/2024
+
+As I prepare for my first Microcomputer Applications course tomorrow morning, I want to finish this ol' soccer project. After I've cd'd into the proper directory, I input the command docker-compose up --build into my terminal, I waited about five minutes for the webpack to compile successfully & then input glv-cloud-cli logs -a fastapi to view the logs & locate a more clear reason for this 500 error I've incurred. 
 
 
 # Thursday, 01/25/2024

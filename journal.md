@@ -1,6 +1,6 @@
 # Tuesday, 01/30/2024
 
-My first class of college level computer science went really well; my professor seems like a really nice person! We mainly just reviewed the class syllablus, opened our textbooks for the first time & other basic stuff like how to use this program called Canvas which contains all the info we need for each module. 
+My first class of college level computer science went really well; my professor seems like a really nice person! We mainly just reviewed the class syllablus, opened our textbooks for the first time & other basic stuff like how to use this program called Canvas which contains all the info we need for each module. I have another intro class I have to take in a little so I'm gunna rest until then & when I'm finished I'll revisit fixing that pesky 500 response from yesterday.
 
 
 # Monday, 01/29/2024

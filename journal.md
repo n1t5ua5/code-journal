@@ -1,3 +1,8 @@
+# Wednesday, 01/31/2024
+
+Picking up where I left off from yesterday, which is pretty much back to where I started from the previous today because I ran into a new error. After looking over my project with me, friend told me that it looks like a dependency was randomly updated, so I tried adding a new one that would handle the 'bcrypt' library, per my fastapi logs in the terminal. After adding/commiting/pushing etc. my pipelines failed in GitLab, so I inspected the new error & realized I had gotten rid of an extra dependency instead of just adding in one more so then I added 'jwtdown-fastapi' back inside my requirements.txt once more & now the original 500 persists, but my pipelines are at least passing again which is a great relief. 
+
+
 # Tuesday, 01/30/2024
 
 My first class of college level computer science went really well; my professor seems like a really nice person! We mainly just reviewed the class syllablus, opened our textbooks for the first time & other basic stuff like how to use this program called Canvas which contains all the info we need for each module. I have another intro class I have to take in a little so I'm gunna rest until then & when I'm finished I'll revisit fixing that pesky 500 response from yesterday.

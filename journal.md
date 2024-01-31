@@ -1,6 +1,6 @@
 # Wednesday, 01/31/2024
 
-Picking up where I left off from yesterday, which is pretty much back to where I started from the previous today because I ran into a new error. After looking over my project with me, friend told me that it looks like a dependency was randomly updated, so I tried adding a new one that would handle the 'bcrypt' library, per my fastapi logs in the terminal. After adding/commiting/pushing etc. my pipelines failed in GitLab, so I inspected the new error & realized I had gotten rid of an extra dependency instead of just adding in one more so then I added 'jwtdown-fastapi' back inside my requirements.txt once more & now the original 500 persists, but my pipelines are at least passing again which is a great relief. 
+Picking up where I left off from yesterday, which is pretty much back to where I started from the previous today because I ran into a new error. After looking over my project with me, friend told me that it looks like a dependency was randomly updated, so I tried adding a new one that would handle the 'passlib' library, per my fastapi logs in the terminal. After adding/commiting/pushing etc. my pipelines failed in GitLab, so I inspected the new error & realized I had gotten rid of an extra dependency instead of just adding in one more so then I added 'jwtdown-fastapi' back inside my requirements.txt once more & now the original 500 persists, but my pipelines are at least passing again which is a big relief. 
 
 
 # Tuesday, 01/30/2024
@@ -10,36 +10,34 @@ My first class of college level computer science went really well; my professor 
 
 # Monday, 01/29/2024
 
-As I prepare for my first Microcomputer Applications course tomorrow morning, I want to finish this ol' soccer project. After I've cd'd into the proper directory, I input the command docker-compose up --build into my terminal, I waited about five minutes for the webpack to compile successfully & then input glv-cloud-cli logs -a fastapi to view the logs & locate a more clear reason for this 500 error I've incurred. 
+As I prepare for my first Microcomputer Applications course tomorrow morning, I want to finish this ol' soccer project. After I've cd'd into the proper directory, I input the command docker-compose up --build into my terminal, I waited about five minutes for the webpack to compile successfully & then input glv-cloud-cli logs -a fastapi to view the logs tp locate a more specific reason as to why this 500 error I've incurred keeps persisting. 
 
 
 # Thursday, 01/25/2024
 
-My friend lent me another book on coding which was highly appreciated because I seriously need to learn about more data structures. The book's called "Cracking the Coding Interview: 189 Programming Questions & Solutions" written by Gayle Laakman McDowell. From what I'm told, most of the questions are aqnostic to which language it's used with but Java & C++ are frequently cited; I've been looking for an excuse to learn more about those two specifically so I'm happy I finally have a good reason now. On a separate note, I was also reminded of the importance of utilizing a deployed projects logs to debug errors & gained a fresh perspective on solving a unique problem I'm facing regarding a random 500 response inside a project of mine which I'll tackle on this upcoming Monday.
+My friend lent me another book on coding which was highly appreciated not just due to the thought but because I really need to buckle down & learn about more data structures. The book's called "Cracking the Coding Interview: 189 Programming Questions & Solutions" written by Gayle Laakman McDowell. From what I'm told, most of the questions are aqnostic to which language it can be used with but Java & C++ are frequently used; I've been looking for an excuse to learn more about those two specifically so I'm happy I finally have a good reason to now. On a separate note, I was also reminded by him of the importance of utilizing a deployed projects logs to debug errors & gained a fresh perspective on solving a unique problem I'm facing regarding a random 500 response inside a project of mine which I'll tackle this upcoming Monday.
 
 
 # Wednesday, 01/24/2024
 https://github.com/n1t5ua5/free-programming-books
 
-Catching up on some long overdue reading on Redux tonight! I've been stuck on college mode as I've been getting my grant & load situation configured & thankfully I was approved for some student aid. I found another repo on here called Free Programming Books which also sheds light on some other material I'll have to understand as time goes on like expanding my knowledge of data structures in my spare time too. Grateful for an abundance of resources.
+Catching up on some long overdue reading on Redux tonight! I've been stuck in college mode as I've been getting my grant / loan situation configured & thankfully I was approved for some student aid. I found another useeful repo on here called Free Programming Books which sheds light on some other material I'll have to understand as time goes on like expanding my knowledge of data structures in my spare time. I'm grateful for an abundance of resources on coding.
 
 
 # Tuesday, 01/23/2024
 
-Been working on resolving this 500 response for more than a couple of days now & I still can't figure out what's going wrong. I'm getting a 200 response in the browser for my localhost version, but the deployed one is all jammed up. I talked with some friends about it & they're going to look at it some more while I delve into it again because the only solveable error I see is this one. Here's what I know for sure: I was getting a 200 response about a month prior & I never touched it again until this past week & a half but I never edited the code during this period, nor did my team. Nothing unusual is being returned in the fastapi logs inside of Docker & the project as a whole is functioning fine with the exception of this crucial component.
+Been working on resolving this 500 response for more than a couple of days now & I still can't figure out what's going wrong. I'm getting a 200 response in the browser for my localhost version, but the deployed one is all jammed up. I talked with some friends about it & they're going to look at it some more while I delve into it again because the only solveable error I see is this one. Here's what I know for sure: I was getting a 200 response about a month prior & I never touched it again until this past week & a half but I never edited the code during this period, nor did my team. Nothing unusual is being returned in the fastapi logs inside of Docker & the project as a whole is functioning fine with the exception of this one crucial component.
 
 
 # Saturday, 01/20/2024
 https://vegconomist.com/products-launches/solar-foods-fazer-unveil-worlds-first-air-protein-chocolate-bar-singapore/
 
-While doing some independent reading today I got a ton of inspiration for building useful software in the Hackathon I got accepted to participate in by Nucleate Cultivate. It's about how a company uses precision fermentation to form proteins out of microbes found in the air such as carbon dioxide. The absurd fact that this is even happening to begin with coupled with how it's being used in a food that's not commonly looked to for protein is an ingenious example of innovaton. I've heard of a similar process a few years ago, but it was about utilizing the air to create water, due to its abundant source of hydrogen. These are the exact sort of solutions we need in order to project ourselves into the best future possible. The Hackathon's provided some more reading for my team & so I'm just focusing on that for the rest of tonight!
+While doing some independent reading today I got a ton of inspiration for building useful software for the Hackathon I got accepted to participate in by Nucleate Cultivate. It's about how a company uses precision fermentation to form proteins out of microbes found in the air such as carbon dioxide. The absurd fact that this is even happening to begin with coupled with how it's being used in a food that's not commonly looked to for protein is an ingenious example of innovaton. I've heard of a similar process a few years ago, but it was about utilizing molecules in the air to create water, due to its abundant source of hydrogen. These are the exact sort of solutions we need in order to project ourselves into the best future possible. The Hackathon's provided some more reading for my team & so I'm just focusing on that for the rest of tonight - buenos noches. 
 
 
 # Friday, 01/19/2024
 
-Eagerly awaiting my first college course on Computer Science! It's called Microcomputer Applications & it starts on the 30th, I can't wait to delve into some foundational stuff. I feel really confident in my basics going forward so though I'm ready for a challenge, I think this first class is going to be pretty easy overall. We'll be covering hardware & software, so I now I really have zero excuses left to buy a Raspberry Pi set to tinker with in my spare time. 
-
-Haven't done any literal coding in the past two days 'cuz I've been stuck in college-mode, but I met up with fellow SWE's on Thursday which was awesome. We're gunna start collaborating on a pet-adoption app which I feel very passionately about for so many reasons but mostly because non-human animals deserve so much more than what they're given here on Earth. Other than that I kept up my codecademy practice streak + I'm slowly unpacking that Redux eBook at the end of each day.
+Eagerly awaiting my first college course on Computer Science! It's called Microcomputer Applications & it starts on the 30th, I can't wait to delve into some foundational stuff. I feel really confident in my basics going forward so though I'm ready for a challenge, I think this first class is going to be pretty easy overall. We'll be covering hardware & software, so I now I really have zero excuses left to buy a Raspberry Pi set to tinker with in my spare time. Haven't done any literal coding in the past two days 'cuz I've been stuck in college-mode, but I met up with fellow SWE's on Thursday which was awesome. We're gunna start collaborating on a pet-adoption app which I feel very passionately about for so many reasons but mostly because non-human animals deserve so much more than what they're given here on Earth. Other than that I kept up my codecademy practice streak + I'm slowly unpacking that Redux eBook at the end of each day.
 
 
 # Wednesday, 01/17/2024
@@ -55,7 +53,7 @@ Id is a property I'm used to using but autoComplete is a little more raw albeit 
 # Monday, 01/15/2024
 https://github.com/n1t5ua5
 
-Spent today reading, practicing with flash cards on Codecademy & changing the domain mapping for a few of my projects so they all work with the right URL's in the browser, SSL certificate included too via Let's Encrypt. Ready for tomorrow, where I'll dive into learning more about mass-producing food from Nucleate Cultivate! Their hackathon that I was accepted to participate in just started & I have about two weeks to finish this foundational section. I wonder what we'll build...
+Spent today reading, practicing with flash cards on Codecademy & changing the domain mapping for a few of my projects so they all work with the right URL's in the browser + they include an SSL certificate included via Let's Encrypt. Ready for tomorrow, where I'll dive into learning more about mass-producing food from Nucleate Cultivate! Their hackathon that I was accepted to participate in just started & I have about two weeks to finish this foundational section. I wonder what we'll build... I'm hoping my group will be interested in building something that allows people to bioengineer medicine & food directly at home.
 
 
 # Friday, 01/12/2024

@@ -1,6 +1,6 @@
 # Wednesday, 01/31/2024
 
-Picking up where I left off from yesterday, which is pretty much back to where I started from the previous today because I ran into a new error. After looking over my project with me, friend told me that it looks like a dependency was randomly updated, so I tried adding a new one that would handle the 'passlib' library, per my fastapi logs in the terminal. After adding/commiting/pushing etc. my pipelines failed in GitLab, so I inspected the new error & realized I had gotten rid of an extra dependency instead of just adding in one more so then I added 'jwtdown-fastapi' back inside my requirements.txt once more & now the original 500 persists, but my pipelines are at least passing again which is a big relief. 
+Picking up where I left off from yesterday, which is pretty much back to where I started from the previous today because I ran into a new error. After looking over my project with me, friend told me that it looks like a dependency was randomly updated, so I tried adding a new one that would handle the 'passlib' library, per my fastapi logs in the terminal. After adding/commiting/pushing etc. my pipelines failed in GitLab, so I inspected the new error & realized I had gotten rid of an extra dependency instead of just adding in one more so then I added 'jwtdown-fastapi' back inside my requirements.txt once more & now the original 500 persists, but my pipelines are at least passing again which is a big relief.
 
 
 # Tuesday, 01/30/2024
@@ -89,9 +89,7 @@ I followed along firdt by adding a new addEventListerner which waited for the ob
 # Tuesday, 01/09/24
 https://github.com/nitsua5/js30practice/commits/master
 
-Tinkered with an old project that uses php earlier today. I didn't mess around with the logic too much, I mostly altered some naming conventions & that added the files to a new private repo I made for it. Now I'm heading back to finish some more of that vanilla JavaScript challenge I've been working on. 
-
-Scrolling was the theme of today's lesson. I used the offsetLeft method once more to by subtracting slider.offsetLeft from e.pageX. This calculates the horizontal distance between the mouse click & the left edge of the .items element. Three more days left! Then I'll start a new course on Redux.
+Tinkered with an old project that uses php earlier today. I didn't mess around with the logic too much, I mostly altered some naming conventions & that added the files to a new private repo I made for it. Now I'm heading back to finish some more of that vanilla JavaScript challenge I've been working on. Scrolling was the theme of today's lesson. I used the offsetLeft method once more to by subtracting slider.offsetLeft from e.pageX. This calculates the horizontal distance between the mouse click & the left edge of the .items element. Three more days left! Then I'll start a new course on Redux.
 
 
 # Monday, 01/08/24
@@ -113,9 +111,7 @@ I've been getting carried away with my making my little portfolio site more resp
 # Friday, 01/05/24
 https://github.com/nitsua5/js30practice/commits/master
 
-I started another private repo, this time for all the random logical problems I find from places like Leetcode & such. It'll be good to have it as a reference to go back to & upload all the past one's into one spot. I want to create a new Leetcode problem, it'll be about human verification. 
-
-Working with addEventListenders today. I was just introduced to the capture object which according to Wes is a boolean value that specifies whether an event should be handled during the event capturing phase (true) or during the event bubbling phase (false). 
+I started another private repo, this time for all the random logical problems I find from places like Leetcode & such. It'll be good to have it as a reference to go back to & upload all the past one's into one spot. I want to create a new Leetcode problem, it'll be about human verification. Working with addEventListenders today. I was just introduced to the capture object which according to Wes is a boolean value that specifies whether an event should be handled during the event capturing phase (true) or during the event bubbling phase (false). 
 
 Now we are using the stopPropagation method to stop triggering events from happening. Next the once property will be set to true underneath the capture property to unbind itself from the event. He explains that this sort of function could be used in store checkouts online where you do not want someone to be able to click something more then once. This was a mouthfull but definitely insightful.
 
@@ -127,9 +123,7 @@ https://github.com/nitsua5/js30practice/commits/master
 
 I spent a long time today fixing up my portfolio. I took the vanilla JS & stored it in a main.js file to save some space, fixed up some styling too. Now I finally feel confident sharing it with others. It's hosted on Pair already, but now it's on GitHub too.
 
-Back at the JavaScript30 challenge, today is all about keeping the position of the nav in place. I feel like I've been going into the weeds a little too much on some of my previous entries. So today, I'll focus mostly on the topic of something I learned new today as opposed to going thru every line of code.
-
-Using the transform property to maintain an elements initial demensions proved to be super useful; I already know a project that could use something like this.
+Back at the JavaScript30 challenge, today is all about keeping the position of the nav in place. I feel like I've been going into the weeds a little too much on some of my previous entries. So today, I'll focus mostly on the topic of something I learned new today as opposed to going thru every line of code. Using the transform property to maintain an elements initial demensions proved to be super useful; I already know a project that could use something like this.
 
 
 # Wednesday, 01/03/23
@@ -410,8 +404,7 @@ functions inside of .addEventListener. You can find the last commit I made for t
 Documentating everything I'm learning like this helping me a lot, I'm really happy I finally started this. After a few more additons I'll make a basic web
 application for this whole project. Working again with the JavaScript30 Challenge, always to find that there really is something new to learn everyday.
 I began making a function called handleCheck which finds if a user has clicked on a checkbox or not. I'm also installing GitHub Co-Pilot today since
-I am learning all of these commands on my own for the first time, I need some assistance. After installing it, I thought it was more geared towards
-making commands in the terminal instead of vscode but It's working I suppose. I'm also starting to fully realize the depth of GitHub as I
+I am learning all of these commands on my own for the first time, I need some assistance & there's a 30 day free trial. After installing it, I thought it was more geared towards making commands in the terminal instead of vscode but It's working I suppose. I'm also starting to fully realize the depth of GitHub as I
 start to work in other branches now. The handleCheck function works now, when you select a checkbox on the form & then click shift, after if you click
 on another item in the form, you will have selected every option in between. That's why I declared variable named inBetween to clarify which items
 must be selected from the if statement in the handleCheck function. You can find the last commit I made for that project here below

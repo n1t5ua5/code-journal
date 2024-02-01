@@ -1,3 +1,8 @@
+# Thursday, 02/01/2024
+
+I finished my first week of college today! It was mostly just a process of getting setup for the semester so it wasn't too difficult but it happened thankfully. Afterwards I re-started the debugging process for that ol' project of mine by talking with a colleague about it & he reminded me of the importance of checking which version my atlas cluster was using. I logged back into MongoDB & low & behold, the first thing in the dashboard shows how the project was paused due to inactivity... so I clicked resume, waited for it to reboot & then I rebuilt my own project using docker-compose up --build in my terminal. 
+
+
 # Wednesday, 01/31/2024
 
 Picking up where I left off from yesterday, which is pretty much back to where I started from the previous today because I ran into a new TypeError. After looking over my project with me, friend told me that it looks like a dependency was randomly updated, so I tried adding a new one that would handle the 'passlib' library, per my fastapi logs in the terminal. After adding/commiting/pushing etc. my pipelines failed in GitLab, so I inspected the new error & realized I had gotten rid of an extra dependency instead of just adding in one more so then I added 'jwtdown-fastapi' back inside my requirements.txt once more & now the original 500 persists, but my pipelines are at least passing again which is a big relief.

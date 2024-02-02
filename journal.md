@@ -1,6 +1,6 @@
 # Thursday, 02/01/2024
 
-I finished my first week of college today! It was mostly just a process of getting setup for the semester so it wasn't too difficult but it happened thankfully. Afterwards I re-started the debugging process for that ol' project of mine by talking with a colleague about it & he reminded me of the importance of checking which version my atlas cluster was using. I logged back into MongoDB & low & behold, the first thing in the dashboard shows how the project was paused due to inactivity... so I clicked resume, waited for it to reboot & then I rebuilt my own project using docker-compose up --build in my terminal. 
+I finished my first week of college today! It was mostly just a process of getting setup for the semester so it wasn't too difficult but it happened thankfully. Afterwards I re-started the debugging process for that ol' soccer project of mine by talking with a colleague about the TypeError I keep encountering & he reminded me of the importance of checking which version my atlas cluster was using. I logged back into MongoDB & low & behold, the first thing in the dashboard shows how the project was paused due to inactivity... so I clicked resume, waited for it to reboot, selected a few options to re-sinstall the proper drivers & then I rebuilt my own project using docker-compose up --build in my terminal to see the results.
 
 
 # Wednesday, 01/31/2024

@@ -1,3 +1,9 @@
+# Monday, 02/05/2024
+https://leetcode.com/problems/valid-parentheses/description/
+
+Recharged my batteries over the weekend along with continuing the conversation on Discord with a colleague about a persistent TypeError. While waiting to hear back from them, I finished all my computer programming homework for college which I'm really, really proud of. I've been wanting to do this for so long & it feels good that it's finally happening. I know Sage is proud & that Savi is too. On Wednesday I'm meeting up with my cousin & his software engineering buddy for dinner, so I'm reviewing a data structure problem that another friend of mine quizzed me on & brushing up on Big O notation by talking about its relevance to both code & business out loud to myself. Being able to verbalize these concepts helps me solidify my knowledge of them. 
+
+
 # Thursday, 02/01/2024
 
 I finished my first week of college today! It was mostly just a process of getting setup for the semester so it wasn't too difficult but it happened thankfully. Afterwards I re-started the debugging process for that ol' soccer project of mine by talking with a colleague about the TypeError I keep encountering & he reminded me of the importance of checking which version my atlas cluster was using. I logged back into MongoDB & low & behold, the first thing in the dashboard shows how the project was paused due to inactivity... so I clicked resume, waited for it to reboot, selected a few options to re-sinstall the proper drivers & then I rebuilt my own project using docker-compose up --build in my terminal to see the results.

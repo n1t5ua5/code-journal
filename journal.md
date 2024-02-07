@@ -1,3 +1,9 @@
+# Wednesday, 02/07/2024
+https://gitlab.com/hack-reactor-hacks-18/mls-monitor/
+
+I had a massive breakthrough today due to a friend's guidance about an old project of mine. They recalled a new dependency update with MongoDB that I was unaware of, reminded me how I ndded to add a new variable via GitLab so that this new URI was read right. I updated my .yml file to match the new variable name & finally added/committed/pushed to GitLab. When I went to my logs using glv-cloud-cli logs -a fastapi I recieved a new error; an AttributeError instead of a long conviluted one like I was getting with the TypeError. I'm investigating that some more now, but while I ponder what do I tested to see if I could login into the deployed project along with the local version using our bogus passwword & eureka!!!! I'm so happy this was diagnosed properly & I can move forward. I'll have to keep an eye on any updates from MongoDB & FastAPI, but now I know how to handle updates like that in general which will definitely come in handy in the future. 
+
+
 # Tuesday, 02/06/2024
 https://github.com/careercup/CtCI-6th-Edition
 

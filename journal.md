@@ -1,17 +1,24 @@
-# Monday, 02/05/2024
-https://leetcode.com/problems/valid-parentheses/description/
+# Tuesday, 02/06/2024
+https://github.com/careercup/CtCI-6th-Edition
 
-Recharged my batteries over the weekend along with continuing the conversation on Discord with a colleague about a persistent TypeError. While waiting to hear back from them, I finished all my computer programming homework for college which I'm really, really proud of. I've been wanting to do this for so long & it feels good that it's finally happening. I know Sage is proud & that Savi is too. On Wednesday I'm meeting up with my cousin & his software engineering buddy for dinner, so I'm reviewing a data structure problem that another friend of mine quizzed me on & brushing up on Big O notation by talking about its relevance to both code & business out loud to myself. Being able to verbalize these concepts helps me solidify my knowledge of them. 
+As I've written about previously, my friend who's been working as a software engineer for many years lent me a second programming book 'cuz they're a stellar person. Since learning about how other books' have repos here on GitHub, I looked up one about my new book & thankfully they have one too except it was more robust then most. This repo included many different versions for specific programming languages, so I forked one on Python for when I'm ready to review some of the solutions. My Microcomputer Applications class today went well, it's early in the morning but a lot more fundamental than I imagined so, so far it hasn't been to difficult. Tomorrow I'll meet with a colleague to fix a TypeError from an old project, so I'm mentally preparing for how to resolve it in my head 'til then.
+
+
+# Monday, 02/05/2024
+https://leetcode.com/problems/valid-parentheses
+
+Recharged my batteries over the weekend along with continuing the conversation on Discord with a colleague about a persistent TypeError. While waiting to hear back from them, I finished all my computer programming homework for college which I'm really, really proud of. I've been wanting to do this for so long & it feels good that it's finally happening. I know Sage is proud & that Savi is too. On Wednesday I'm meeting up with my cousin & his software engineering buddy for dinner, so I'm reviewing a data structure problem that another friend of mine quizzed me on before & brushing up on Big O notation by talking about its relevance to both code & business out loud to myself. Being able to verbalize these concepts really helps me solidify my knowledge of them. 
 
 
 # Thursday, 02/01/2024
+https://www.mongodb.com/
 
-I finished my first week of college today! It was mostly just a process of getting setup for the semester so it wasn't too difficult but it happened thankfully. Afterwards I re-started the debugging process for that ol' soccer project of mine by talking with a colleague about the TypeError I keep encountering & he reminded me of the importance of checking which version my atlas cluster was using. I logged back into MongoDB & low & behold, the first thing in the dashboard shows how the project was paused due to inactivity... so I clicked resume, waited for it to reboot, selected a few options to re-sinstall the proper drivers & then I rebuilt my own project using docker-compose up --build in my terminal to see the results.
+I finished my first week of college today! It was mostly just a process of getting setup for the semester so it wasn't too difficult but it happened nonetheless. Afterwards I re-started the debugging process for that ol' soccer project of mine by talking with a colleague about the TypeError I keep encountering & he reminded me of the importance of checking which version my atlas cluster was using. I logged back into MongoDB & low & behold, the first thing in the dashboard shows how the project was paused due to inactivity. So I clicked resume, waited for it to reboot, selected a few options to re-sinstall the proper drivers & then I rebuilt my own project using docker-compose up --build in my terminal to see the results.
 
 
 # Wednesday, 01/31/2024
 
-Picking up where I left off from yesterday, which is pretty much back to where I started from the previous today because I ran into a new TypeError. After looking over my project with me, friend told me that it looks like a dependency was randomly updated, so I tried adding a new one that would handle the 'passlib' library, per my fastapi logs in the terminal. After adding/commiting/pushing etc. my pipelines failed in GitLab, so I inspected the new error & realized I had gotten rid of an extra dependency instead of just adding in one more so then I added 'jwtdown-fastapi' back inside my requirements.txt once more & now the original 500 persists, but my pipelines are at least passing again which is a big relief.
+Picking up where I left off from yesterday, which is pretty much back to where I started from the previous today because I ran into a new TypeError. After looking over my project with me, my friend told me that it looks like a dependency was randomly updated without notifying me, so I tried adding a new one that would handle the 'passlib' library, per the error in my fastapi logs in the terminal. After adding/commiting/pushing etc. my pipelines failed in GitLab, so I inspected the new error in there & realized I had gotten rid of an extra dependency instead of just adding in the new one so then I added 'jwtdown-fastapi' back inside my requirements.txt file once more & now the original 500 response persists, but my pipelines are at least passing again which is a big relief.
 
 
 # Tuesday, 01/30/2024
@@ -21,12 +28,12 @@ My first class of college level computer science went really well; my professor 
 
 # Monday, 01/29/2024
 
-As I prepare for my first Microcomputer Applications course tomorrow morning, I want to finish this ol' soccer project. After I've cd'd into the proper directory, I input the command docker-compose up --build into my terminal, I waited about five minutes for the webpack to compile successfully & then input glv-cloud-cli logs -a fastapi to view the logs tp locate a more specific reason as to why this 500 error I've incurred keeps persisting. 
+As I prepare for my first Microcomputer Applications course tomorrow morning, I want to finish this ol' soccer project. After I've cd'd into the proper directory, I input the command docker-compose up --build into my terminal, I waited about five minutes for the webpack to compile successfully & then input glv-cloud-cli logs -a fastapi to view the logs tp locate a more specific reason as to why this 500 error I've incurred keeps persisting but no new advances were made.
 
 
 # Thursday, 01/25/2024
 
-My friend lent me another book on coding which was highly appreciated not just due to the thought but because I really need to buckle down & learn about more data structures. The book's called "Cracking the Coding Interview: 189 Programming Questions & Solutions" written by Gayle Laakman McDowell. From what I'm told, most of the questions are aqnostic to which language it can be used with but Java & C++ are frequently used; I've been looking for an excuse to learn more about those two specifically so I'm happy I finally have a good reason to now. On a separate note, I was also reminded by him of the importance of utilizing a deployed projects logs to debug errors & gained a fresh perspective on solving a unique problem I'm facing regarding a random 500 response inside a project of mine which I'll tackle this upcoming Monday.
+My friend lent me another book on coding which was highly appreciated not just due to the thought but because I really need to buckle down & learn about more data structures. The book's called "Cracking the Coding Interview: 189 Programming Questions & Solutions" written by Gayle Laakman McDowell. From what I'm told, most of the questions are aqnostic to which language it can be used with but Java & C++ are frequently used; I've been looking for an excuse to learn more about those two specifically so I'm happy I finally have a good reason now. On a separate note, I was also reminded by my friend of the importance of utilizing a deployed projects logs to debug errors instead of the local logs. This gave me a fresh perspective on solving a unique problem I'm facing regarding a random 500 response inside a project of mine which I'll tackle this upcoming Monday.
 
 
 # Wednesday, 01/24/2024

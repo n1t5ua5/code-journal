@@ -1,3 +1,9 @@
+# Thursday, 02/08/2024
+https://docs.oracle.com/en/java/
+
+I met up with a senior engineer & my cousin last night for dinner to learn more about the software engineering company the SWE works for. Overall, their aim is help visualize data for clients by creating graphs using mostly Java & Springboot. I gained a ton of knowledge & discovered some new resources that I'm starting to look into just now. After meeting yet another engineer that uses Java, I'm convinced it's a language I need to invest more of my time learning about. This morning I finished my second week of college & it's still going well although we haven't delved too far into the syllabus for either class I'm taking yet. I'm going to dive back into that AttributeError for the rest of today, finish my homework from school & then prepare to meet up with my partners on my project from Nucleate Cultivate tomorrow. I'm also going to publish a longer journal update regarding that TypeError my colleague helped me resolve yesterday, but I need a little more time to prepare something more useful then a quick blog post about it because I know I'm going to incure something similar again in the future.
+
+
 # Wednesday, 02/07/2024
 https://gitlab.com/hack-reactor-hacks-18/mls-monitor/
 

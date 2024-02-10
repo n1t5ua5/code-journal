@@ -1,3 +1,9 @@
+# Saturday, 02/10/2024
+https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/
+
+Spent the morning looking over some Microsoft certifications a friend recommended to me, I linked one of them above. They seem interesting & worth obtaining but I need to finish configuring my schedule for the upcoming season before I commit to working on any more tasks. Later this aftenoon I recorded a video via Loom to help my colleague better understand the AttributeError I can't seem to fix. Now I'm going to finish my computer programming homework & rest before the upcoming week. Oh yeah, I created a new repository for my group with Nucleate Cultivate; I'll update it after we meet again. ☮️ 
+
+
 # Friday, 02/09/2024
 https://youtu.be/HNPXpAGBAqs?si=d3GCTU4bfiuSSlp1
 

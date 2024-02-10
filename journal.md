@@ -1,3 +1,9 @@
+# Friday, 02/09/2024
+https://youtu.be/HNPXpAGBAqs?si=d3GCTU4bfiuSSlp1
+
+I need to regroup to resolve this AttributeError from the other day. I know I can do it, but for some reason I can't recall the proper sequence of commands for updating my requirements.txt file now because when I rebuild my project in Docker, over 20 dependencies are added to my file. It's possible they're necessary now but I'm certain that one of them like 'passlib', 'bcrypt' or both are the root cause for the problem, per the fastapi logs. After, I met up with my group from Nucleate Cultivate & we discussed some different ways we can work together on this cellular agriculture hackathon we were accepted to participate in, like which plant(s) can be bioengineered to create protein. Lastly I prepared to tap my maple trees by cleaning the equipment & tomorrow I'm going to clean the yard a little more to make the environment the best it could possibly for the plants. On Sunday I'll do the tapping. I'm so excited to do this again & have some sweet maple syrup afterwards!
+
+
 # Thursday, 02/08/2024
 https://docs.oracle.com/en/java/
 

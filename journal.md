@@ -1,3 +1,9 @@
+# Sunday, 02/11/2024
+https://www.cultivate-tmrw.com/about
+
+After cleaning my maple sap tapping equipment once more, I set them up so they should be good to go on their own for at least two weeks. While I wait for them collect sap that I'll eventually boil down into to maple syrup, I revisited Module One & Two of my hackathon project for Nucleate Cultivate which is a student group working to solve problems regarding the future of cellular agriculture, precision fermentation & alternative proteins. My group's still in the beginning stages of planning but it's looking good so far; I'm excited to share what we're working on as things progress in the coming weeks.
+
+
 # Saturday, 02/10/2024
 https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/
 

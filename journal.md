@@ -1,3 +1,9 @@
+# Monday, 02/12/2024
+https://github.com/boosungkim/custom-chess-engine
+
+Talked with my colleague again about resolving that AttributeError but after going through all of the site processes once more & ensuring that everything still worked, we both concluded that this one will have to remain a mystery for now at least. If you have any more information on this sort of error, AttributeError: module 'bcrypt' has no attribute '__about__', please reach out to me here to discuss! In regards to the original TypeError, it was really frustrating at times but patience is a virtue + now I'm in gear for the upcoming MLS season which starts in two weeks which I would have had to look out for anyways to ensure the API is updating with the new season - as long as it's successful I'll call this project finished. Thanks to some guidance from friends I was reminded of the importance of checking the deployed logs over just the server logs & of how to update variables in GitLab that repesent a MongoDB URI. In my spare time, I want to create a chess board application using Python so after researching ideas quickly, I came across the one I posted above which seems pretty reasonable but I need to do some more looking to make sure it's familiar all while challenging. 
+
+
 # Sunday, 02/11/2024
 https://www.cultivate-tmrw.com/about
 
@@ -19,7 +25,7 @@ I need to regroup to resolve this AttributeError from the other day. I know I ca
 # Thursday, 02/08/2024
 https://docs.oracle.com/en/java/
 
-I met up with a senior engineer & my cousin last night for dinner to learn more about the software engineering company the SWE works for. Overall, their aim is help visualize data for clients by creating graphs using mostly Java & Springboot. I gained a ton of knowledge & discovered some new resources that I'm starting to look into just now. After meeting yet another engineer that uses Java, I'm convinced it's a language I need to invest more of my time learning about. This morning I finished my second week of college & it's still going well although we haven't delved too far into the syllabus for either class I'm taking yet. I'm going to dive back into that AttributeError for the rest of today, finish my homework from school & then prepare to meet up with my partners on my project from Nucleate Cultivate tomorrow. I'm also going to publish a longer journal update regarding that TypeError my colleague helped me resolve yesterday, but I need a little more time to prepare something more useful then a quick blurb about it because I know I'm going to incur something similar again in the future.
+I met up with a senior engineer & my cousin last night for dinner to learn more about the software engineering company the SWE works for. Overall, their aim is help visualize data for clients by creating graphs using mostly Java & Springboot. I gained a ton of knowledge & discovered some new resources that I'm starting to look into just now. After meeting yet another engineer that uses Java, I'm convinced it's a language I need to invest more of my time learning about. This morning I finished my second week of college & it's still going well although we haven't delved too far into the syllabus for either class I'm taking yet. I'm going to dive back into that AttributeError for the rest of today, finish my homework from school & then prepare to meet up with my partners on my project from Nucleate Cultivate tomorrow. I'm also going to publish a longer journal update regarding that TypeError my colleague helped me resolve yesterday, but I need a little more time to prepare something more concise because I know I'm going to incur something similar again in the future.
 
 
 # Wednesday, 02/07/2024
@@ -152,9 +158,11 @@ After I updated the width & height of the background element based on the dimens
 
 Couldn't help but pick up the portfolio project one more time because the resolution on the mobile versions backdrop wasn't clear enough. Finally found one that works for it well. Thought about going back to that vanilla JavaScript course again but I think it's better to let the batteries recharge some more. 
 
+
 # Saturday, 01/06/24
 
 I've been getting carried away with my making my little portfolio site more responsive & now it really is. I had done almost everything planned for it before, but it was still kind of staticky. It's pretty late now so I'm gunna go back to reading tonight & solve some puzzles on Codecademy again.
+
 
 # Friday, 01/05/24
 https://github.com/nitsua5/js30practice/commits/master

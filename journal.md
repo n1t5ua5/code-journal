@@ -260,7 +260,7 @@ be called within a fat arrow function. Lastly I will add the .filter method insi
 
 
 # 12/21/2023
-github.com/nitsua5/js30practice/commits/master
+https://github.com/nitsua5/js30practice/commits/master
 
 Speech recogniton is going to be the focal point for today's mini-project. Apparently there's a built-in method with Firefox &
 Chrome window.SpeechRecognition || webkitSpeechRecognition (as of the date of the video which is around five years old). First,
@@ -306,7 +306,7 @@ algorithm a friend showed me recently. It can be found on Leetcode too: leetcode
 
 
 # 12/20/2023
-github.com/nitsua5/js30practice/commits/master
+https://github.com/nitsua5/js30practice/commits/master
 
 Trying to tally strings with the .reduce method this morning. There is a list of video's time-length as strings & I am going to
 find the total length of all videos as a number. I've used .reduce before too, so it'll be good to utilize it again & learn
@@ -466,7 +466,7 @@ work on that starting tomorrow while I continue to push through this 30 day codi
 
 
 # 12/08/2023
-ttps://github.com/nitsua5/js30practice/commits/master
+https://github.com/nitsua5/js30practice/commits/master
 
 I got a late start today but squeezed in some code nonetheless which made me happy because the momentum is definitely building & I'm feeling more comfortable
 writing my own functions & using different methods. As I continue along this JavaScript course, I'm noticing the continued important role that .addEventListener

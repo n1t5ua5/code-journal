@@ -1,3 +1,9 @@
+# Tuesday, 02/13/2024
+https://au5t1n5c0d3.com/
+
+Snowing like crazy today, at least half a foot, so my Valentine's Day plans are sadly cancelled... but at least I have my cat. I bought them a new bed - it's shaped like an old TV except it's hollowed out so they can sleep inside it - I hope they like it haha. My partner was incredibly understanding about the weather too, I love them so much & can't wait to see them soon! So after class today I delved back into another old project that needed a quick fix. It's built mainly using PHP so I added in the new e-mail address thinking it would just work but I never recieved any e-mails from the form after several attempts. I couldn't spot any errors in the console & every form was successfully filled out due to the error handling I setup previously. Turns out I needed to ensure there were From and Reply-To values set for when the e-mail is first recieved. It goes something like this: $headers .= "From: noreply@boca-del-vista.com" . "\r\n"; $headers .= "Reply-To: $email" . "\r\n";. I'm feeling really proud that I got a lot of these old projects touched up so I can move on from them & completely focus on learning/building new stuff like that chess application I wrote about yesterday + I have my school work, volunteer program with Nucleate Cultivate & a new project I'm working on regarding automating the agricultural process using non-virgin materials. 
+
+
 # Monday, 02/12/2024
 https://github.com/boosungkim/custom-chess-engine
 

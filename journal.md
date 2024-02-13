@@ -201,7 +201,7 @@ Later on this week I'll write more in detail about it, but for now I'm redesigni
 # DECEMBER 2023
 
 # 12/28/23
-# https://github.com/nitsua5/js30practice/commits/master
+https://github.com/nitsua5/js30practice/commits/master
 
 Reset my mind over the past week. Taking time to pause from thinking critically in this setting is necessary at times in my
 humble opinion. I still want to write some code before the new year starts there to maintain consistency throughout 2024.
@@ -213,7 +213,7 @@ object, while handling user interactions through event listeners. Some basic sty
 
 On line 39 I set msg.text equal to a querySelector where the name is equal to text & then I called the value afterwards.
 I wrote the msg variable into the console & it's returning the SpeechSynthesisUtterance variable. I can tell it's working
-because inside the variable is the pre-written text value of "Hello! I love JavaScript 👍".
+because inside the variable is the pre-written text value of "Hello! I love JavaScript ❤️".
 
 I then learned that SpeechSynthesis is another global variable in the console which when calling .speak, allows you to
 pass it an utterance. I tried making it work just now with the msg variable, but it's returning undefined because the
@@ -259,7 +259,9 @@ listens for the speakButton which simply toggles when clicked. The stopButton ho
 be called within a fat arrow function. Lastly I will add the .filter method inside of the populateVoices function.
 
 
-# 12/21/2023 / repo: github.com/nitsua5/js30practice/commits/master
+# 12/21/2023
+github.com/nitsua5/js30practice/commits/master
+
 Speech recogniton is going to be the focal point for today's mini-project. Apparently there's a built-in method with Firefox &
 Chrome window.SpeechRecognition || webkitSpeechRecognition (as of the date of the video which is around five years old). First,
 I'm figuring out how to at least get the tool to recognize someone talking by creating a new instance of SpeechRecognition();.
@@ -269,7 +271,7 @@ a custom server for this project. At this point using these commands feel like m
 
 Caught another error as I implemented the recognition to begin each time the page was loaded through recognition.start();
 When I loaded the page, nothing changed. So I went into the console & read an error message that said "Uncaught ReferenceError:
-recognition is not defined at index-START.html:20:3. When I see these I can almost immediately recognize there was a typo, as I
+recognition is not defined at index-START.html: 20:3. When I see these I can almost immediately recognize there was a typo, as I
 had intentionally defined recognition on line 16 - it was the second line I wrote. I used CTRL+F to scan every instance of the
 value "recognition" & oddly enough the one on line 16 wasn't appearing in the list. I carefully observed every variable with
 said value until I realized I didn't add a second 'i' in the word recognition. Problem solved.
@@ -303,7 +305,9 @@ position of the webpage. Awesome. Tomorrow I'll do some more + I'm finally going
 algorithm a friend showed me recently. It can be found on Leetcode too: leetcode.com/problems/valid-parentheses/
 
 
-# 12/20/2023 / repo: github.com/nitsua5/js30practice/commits/master
+# 12/20/2023
+github.com/nitsua5/js30practice/commits/master
+
 Trying to tally strings with the .reduce method this morning. There is a list of video's time-length as strings & I am going to
 find the total length of all videos as a number. I've used .reduce before too, so it'll be good to utilize it again & learn
 something new in the process. First I declared a variabled named timeNodes & set it equal to Array.from(document.querySelectorAll(
@@ -328,7 +332,7 @@ localMediaStream. Finally the getVideo() function is called again in order for t
 But then I followed Wes' video some more & the webcam light was on but I was not appearing in the upper right hand corner
 as it should have worked inititally. He said to declare the video.srcObject equal to window.URL.createObjectURL(localMediaStream);
 but in the console an error persisted: scripts.js:8 Uncaught TypeError: Cannot read properties of undefined (reading 'getUserMedia')
-at getVideo (scripts.js:8:28) at scripts.js:19:1. I knew it was calling for an error in regards to getUserMedia, which made sense
+at getVideo (scripts.js: 8:28) at scripts.js: 19:1. I knew it was calling for an error in regards to getUserMedia, which made sense
 because the media in literal terms wasn't appearing & sequentially it probably had to do with line 11 given the logic being
 performed: video.srcObject = window.URL.createObjectURL(localMediaStream);. I also knew I had previously clicked allow when
 asked for permission by the browser so my setting were correct. I looked inside the files some more & realized Wes left
@@ -341,16 +345,19 @@ console via the setInterval function. All the filters are working now, phew, tha
 
 
 # 12/19/2023
+https://github.com/nitsua5/js30practice/commits/master.
+
 Introduced to the .replace method today when making a function called sortedBands which should display a list of bands in array
 named bands. Implement logic to match prefixes of "a", "the" or "an" at the beginning of every name: return bandName.replace(
 /^(a |the |an )/i, '').trim(); The | operator tests if the input is present or not. Then the .sort method is used to see which
 order the names should be displayed in. Then the bands are displayed using DOM manipulation & finally the .map & .join method
 are used to create a new array which each band name wrapped in an <li> tag & then brought together into a sigle string. I've
 used the .sort & .join method before, but .replace definitely earned it's place in my toolbox.
-As always, check the repo out at https://github.com/nitsua5/js30practice/commits/master.
 
 
 # 12/14/2023
+https://github.com/nitsua5/js30practice/commits/master
+
 It's been good being able to learn a little more in my spare time before the year's over. Building & viewing a variety of projects
 has taught me a lot of random things that I probably wouldn'tve picked up on by myself. I used this to help fine-tune another
 project I've been working on that didn't even necessarily have to do with the lesson I was learning (it was about adding an
@@ -365,10 +372,11 @@ a specific number is returned in the console. I'm feeling a lot more confident i
 past when an error appeared in the console, I got a small wave of panic, but now I just feel reassured everytime it points out
 any error because it's almost always a syntax issue. The shadow function now shows some color when hovering over it because I added
 text.style.textShadow. After applying some more styling & math, the cursor is responding perfectly! That's all for today folks.
-https://github.com/nitsua5/js30practice/commits/master
 
 
 # 12/13/2023
+https://github.com/nitsua5/js30practice/commits/master
+
 First time utilizing the localStorage method & it's pretty straight forward, it saves what you do onto your local machine. I got
 refamiliarized with the JSON.stringify method which is a little more specific then the .toString() method which has more of a general
 purpose use to display something quickly whereas JSON serilizes the data completely. I also used JSON.parse() again which I've used
@@ -378,10 +386,11 @@ or use an empty array as a placeholder. Near the end, event delegation takes pla
 something higher that's called & then inside of it we check for the item we actually want. Essentially everytime a change is made,
 the same action will be performed inside localStorage & then re-write the list. This one was a little more in depth & I really need
 to look it over again but for now, that's all for today. Please check the repo for yourself to look over my code & give any feedback!
-https://github.com/nitsua5/js30practice/commits/master
 
 
 # 12/12/2023
+https://github.com/nitsua5/js30practice/commits/master
+
 Practice began today by doing something easy with arrays. I started by declraring variables set equal to an array with a list of names as
 strings. Then adding more names to the original array & comparing it with a second variable that was set equal to the previous variable.
 ...here's what it looked like below..
@@ -429,11 +438,12 @@ captain.number = 99;
 I'm running out of time to write out the code but for the next few steps I learned to copy / reference objects, but I will talk about what
 I wrote on line 99 real quick: const sage = Object.assign({}, savi);  The Object.assign() method is used to copy the properties from
 the savi object to a new object which in this case is a blank one with nothing in it by default. I'm also going to reverse the
-direction I'm writing this journal in. Instead of progressively moving down, I'm going up now. Check out the repo for all my code:
+direction I'm writing this journal in. Instead of progressively moving down, I'm going up now. Check out the repo for all my code above.
+
+
+# 12/11/2023
 https://github.com/nitsua5/js30practice/commits/master
 
-
-12/11/2023
 After practicing some questions on Codecademy about JavaScript & Python I began working on the JS30 project again, today's challenge is
 called Slide In on Scroll. I learned about another way to use DevTools, this time with console.count() for printing how many times
 something has appeared in the console, this time it was with a new function I wrote called checkSlide that ran everytime a user
@@ -441,28 +451,33 @@ scrolled up or down on the .html page. I finished the challenge & was definitely
 hindsight. The function checkSlide iterates over each image selected & performs the same operation. Then it calculates the right pixel
 value for when the slide comes in with some other checks like if the user has scrolled past the image or not. If those conditions
 are met then a CSS class 'active' is added to the image. Phew, that's a mouthful. I'm calling it quits for today. Visit this url to
-check out any of the commits I made: https://github.com/nitsua5/js30practice/commits/master
+check out any of the commits I made above.
 
 
-12/10/2023
+# 12/10/2023
+https://github.com/nitsua5/js30practice/commits/master
+
 Worked on a tiny little project that detects which keys have pressed on the keyboard or not. I wrote an if statement that checked if said event happened, which
 looked for a variable I declared named secretCode. If the secretCode value appeared in the console after being written in the browser then a built in
 JavaScript function named cornify_add() was called. This built in function is a random thing built by developers that makes raindows & unicorns
 stuff like that appear in the browser when it it's called, lol. In my spare time I used a CMS program called Square to develop a demo site
 for a project I'm working. The domain was purchased, it's now hosted by Square & it's live. It needs more content though so I will
-work on that starting tomorrow while I continue to push through this 30 day coding challenge. Find my most recent commit below
-https://github.com/nitsua5/js30practice/commits/master
+work on that starting tomorrow while I continue to push through this 30 day coding challenge. Find my most recent commit above.
 
 
-12/08/2023
+# 12/08/2023
+ttps://github.com/nitsua5/js30practice/commits/master
+
 I got a late start today but squeezed in some code nonetheless which made me happy because the momentum is definitely building & I'm feeling more comfortable
 writing my own functions & using different methods. As I continue along this JavaScript course, I'm noticing the continued important role that .addEventListener
 plays in using vanilla JavaScript. Today's project was redeveloping a dysfunctional video media player. I think the file is a little old itself but I still
 was able to practice declaring different variables using const, the .this method to direct where the video was being played directly & using fat arrow
-functions inside of .addEventListener. You can find the last commit I made for that project here: https://github.com/nitsua5/js30practice/commits/master
+functions inside of .addEventListener. You can find the last commit I made for that project above.
 
 
-12/07/2023
+# 12/07/2023
+https://github.com/nitsua5/js30practice/commits/master
+
 Documentating everything I'm learning like this helping me a lot, I'm really happy I finally started this. After a few more additons I'll make a basic web
 application for this whole project. Working again with the JavaScript30 Challenge, always to find that there really is something new to learn everyday.
 I began making a function called handleCheck which finds if a user has clicked on a checkbox or not. I'm also installing GitHub Co-Pilot today since
@@ -470,10 +485,9 @@ I am learning all of these commands on my own for the first time, I need some as
 start to work in other branches now. The handleCheck function works now, when you select a checkbox on the form & then click shift, after if you click
 on another item in the form, you will have selected every option in between. That's why I declared variable named inBetween to clarify which items
 must be selected from the if statement in the handleCheck function. You can find the last commit I made for that project here below
-https://github.com/nitsua5/js30practice/commits/master
 
 
-12/06/2023
+# 12/06/2023
 Today I picked up where I left off & started working on this 30 day JavaScript challenge I was told to practice with again & it's made a big difference so far.
 I familiarized myself with methods like .strokeStyle & .moveTo, grew accustom to using tools like console.table & console.group instead of just console.log
 while also getting to know how to use GitHub better. I'm more familiar with GitLab, so I know a lot of Git commands already but it's still new terrain.

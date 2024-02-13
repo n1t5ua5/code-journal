@@ -314,7 +314,7 @@ something new in the process. First I declared a variabled named timeNodes & set
 '[data-time]')); which selects all the DOM elements that have a data-time attribute. Then I declared a new variable 'seconds'
 to retrieve the seconds for each time listed by using the .map & .reduce function to extract all of the data-time values & store
 the data in a new array containing the values. I revisited using the % operator to return whatever is left over from the seconds
-variable to determine how many seconds are left from the original <ul> elements with a class of "videos". Everything works, then
+variable to determine how many seconds are left from the original 'ul' elements with a class of "videos". Everything works, then
 I calculated the total number of minutes by declaring a variable named mins & setting it equal to Math.floor(secondsLeft / 60);
 which is basically the same thing I did for the secondsLeft variable. Math.floor rounds down to the nearest whole number.
 

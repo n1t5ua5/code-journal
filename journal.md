@@ -142,7 +142,7 @@ The HTML file contains mole holes with the class 'hole', a scoring display with 
 This project is really useful & reinforces tactics like DOM manipulation & event handling - I'm going to remodel this into one that's called something like 'Whack-A-Cactus' & make it a little more in depth. I'm really proud to go through this whole crash-course. My coding reflexes are a lot more keen then they used to be. From here I'm going to start a course on redux, re-make this game into something better & keep on reading my Python book & download an e-book on JavaScript!
 
 
-# Wednesday, 01/10/24
+# Wednesday, 01/10/2024
 https://github.com/nitsua5/js30practice/commits/master
 
 Later today I'll create another private repo for a tic-tac-toe game I made awhile back because I wanted to center it on all devices instead of residing on the left side like it currently does. It'll include to a second one I made as well! I also went back to that php project to fix some naming conventions one more time, I think I can finally put it to rest now. Update: the private repo has been created & I applied the d-n-r style.
@@ -152,13 +152,13 @@ I've got two days left of this vanilla JavaScript challenge my friend sent to me
 I followed along firdt by adding a new addEventListerner which waited for the object of mousemouve. This should show an event in the console but the only thing I get is an error about that ol' .mp4 (I tried simply adding an s to http but I still recieved an error in the console). The code's ready now for double checking tomorrow, considering there were also no notes about this error in the GitHub notes.
 
 
-# Tuesday, 01/09/24
+# Tuesday, 01/09/2024
 https://github.com/nitsua5/js30practice/commits/master
 
 Tinkered with an old project that uses php earlier today. I didn't mess around with the logic too much, I mostly altered some naming conventions & that added the files to a new private repo I made for it. Now I'm heading back to finish some more of that vanilla JavaScript challenge I've been working on. Scrolling was the theme of today's lesson. I used the offsetLeft method once more to by subtracting slider.offsetLeft from e.pageX. This calculates the horizontal distance between the mouse click & the left edge of the .items element. Three more days left! Then I'll start a new course on Redux.
 
 
-# Monday, 01/08/24
+# Monday, 01/08/2024
 https://github.com/nitsua5/js30practice/commits/master
 
 Fixed some icon resolution in my portfolio again 'cuz it just wasn't good enough. Now I'm working on a little mini-project about styling navs. After adding writing some addEventListeners & functions (handleEnter & handleLeave), the coordinates on the page are being consoled correctly because the console.log(dropdownCoords) statement inside the handleEnter function is successfully logging the coordinates of the dropdown menu to the console when the mouse enters the navigation element.
@@ -166,17 +166,17 @@ Fixed some icon resolution in my portfolio again 'cuz it just wasn't good enough
 After I updated the width & height of the background element based on the dimensions of the dropdown menu (coords) & then the background element finally became responsive to the size of each specific dropdown menu when hovered over. A few more changes & now the code now accurately calculates the dropdown menu's position relative to the .top element & adjusts the background size & position accordingly. 
 
 
-# Sunday, 01/07/24
+# Sunday, 01/07/2024
 
 Couldn't help but pick up the portfolio project one more time because the resolution on the mobile versions backdrop wasn't clear enough. Finally found one that works for it well. Thought about going back to that vanilla JavaScript course again but I think it's better to let the batteries recharge some more. 
 
 
-# Saturday, 01/06/24
+# Saturday, 01/06/2024
 
 I've been getting carried away with my making my little portfolio site more responsive & now it really is. I had done almost everything planned for it before, but it was still kind of staticky. It's pretty late now so I'm gunna go back to reading tonight & solve some puzzles on Codecademy again.
 
 
-# Friday, 01/05/24
+# Friday, 01/05/2024
 https://github.com/nitsua5/js30practice/commits/master
 
 I started another private repo, this time for all the random logical problems I find from places like Leetcode & such. It'll be good to have it as a reference to go back to & upload all the past one's into one spot. I want to create a new Leetcode problem, it'll be about human verification. Working with addEventListenders today. I was just introduced to the capture object which according to Wes is a boolean value that specifies whether an event should be handled during the event capturing phase (true) or during the event bubbling phase (false). 
@@ -186,7 +186,7 @@ Now we are using the stopPropagation method to stop triggering events from happe
 Later on in the day I implemented a day / night mode toggle button on my portfolio along with some other minor styling updates. I went back to Codecademy & practiced some more random JavaScript & Python questions + I finally made my own 'Leetcode'-like logicical question too! It's very simple, but I'm feally proud of it. I've signed up for a Kindle account so I can read on the go & now as I'm winding down I finally picked back up the hardcover copy of "Practices of the Python Pro" by Dane Hillard that my friend lent me. I'm feeling increasingly accomplished tonight.
 
 
-# Thursday, 01/04/24
+# Thursday, 01/04/2024
 https://github.com/nitsua5/js30practice/commits/master
 
 I spent a long time today fixing up my portfolio. I took the vanilla JS & stored it in a main.js file to save some space, fixed up some styling too. Now I finally feel confident sharing it with others. It's hosted on Pair already, but now it's on GitHub too.
@@ -194,7 +194,7 @@ I spent a long time today fixing up my portfolio. I took the vanilla JS & stored
 Back at the JavaScript30 challenge, today is all about keeping the position of the nav in place. I feel like I've been going into the weeds a little too much on some of my previous entries. So today, I'll focus mostly on the topic of something I learned new today as opposed to going thru every line of code. Using the transform property to maintain an elements initial demensions proved to be super useful; I already know a project that could use something like this.
 
 
-# Wednesday, 01/03/23
+# Wednesday, 01/03/2023
 https://github.com/nitsua5/multiple-choices
 
 I created a small game using python to help study for anything I want to learn more about. After being properly forked &
@@ -204,9 +204,7 @@ terminal. Questions & answers are formatted in classic A, B, C, D multiple choic
 Later on this week I'll write more in detail about it, but for now I'm redesigning my portfolio that I built using jQuery. I wrote a function using vanilla JavaScript to make all h4 elements flash on & off to make the application a little more dynamic. Finished the day by practicing some more Python & JavaScript via Codecademy trivia.
 
 
-# DECEMBER 2023
-
-# 12/28/23
+# 12/28/2023
 https://github.com/nitsua5/js30practice/commits/master
 
 Reset my mind over the past week. Taking time to pause from thinking critically in this setting is necessary at times in my

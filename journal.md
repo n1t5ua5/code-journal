@@ -1,3 +1,9 @@
+# Friday, 02/16/2024
+https://bigfuture.collegeboard.org/
+
+Spent the afternoon searching for other colleges to attend because my computer programming track doesn't allow for minors at my college. I didn't realize this until the approaching semester's deadline for registration so I signed up anyways to start, but now it's time to look elsewhere because I need to minor in Spanish. I keep expanding my knowledge everyday by reading, practicing with Duolingo, watching fútbol at night & talking with my partner everyday over the phone but I need a tutor & a college level course to assist me in growing more. I have a lot of random questions that I need to ask a teacher so yep, onward I go in this search. I know there's something out there that's right for me, I just have to look in the right places. Outside of my personal life, as I've learned more about web development these past three years, I now fully understand the utility of being able to communicate in other languages. This sort of diversity makes life beautiful & allows us to solve unique problems.
+
+
 # Wednesday, 02/14/2024
 https://glassdoor.com
 

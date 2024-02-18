@@ -1,3 +1,9 @@
+# Saturday, 02/17/2024
+https://flexboxfroggy.com/
+
+My cousin who is a software engineer showed me this random website called Flex Box Froggy awhile back so I figued I'd check it out again today because I haven't been working too much with CSS lately. It's easy at first but after awhile it gets a little more complex as you go through each level 1 - 24. For the first half of the levels, you're mostly working with the selectors align-items, justify-content & flex-direction. One of them is described like this, "Sometimes reversing the row or column order of a container is not enough. In these cases, we can apply the order property to individual items. By default, items have a value of 0, but we can use this property to also set it to a positive or negative integer value (-2, -1, 0, 1, 2). Use the order property to reorder the frogs according to their lilypads.". It's a good way to brush up on some commonly used styling components + I love how it's animal-friendly. I forked the GitHub repo too!
+
+
 # Friday, 02/16/2024
 https://bigfuture.collegeboard.org/
 

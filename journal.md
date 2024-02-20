@@ -1,3 +1,9 @@
+# Tuesday, 02/20/2024
+https://www.codecademy.com/learn/learn-typescript
+
+TypeScript is a programming language that I first learned to use back at the software engineering bootcamp I went to. Now it's time to get some more hands-on coding practice with it. I enrolled in a new course via CodeCademy so at least in my spare time I have an easy way to learn more. They start off explaining how JavaScript may not be so useful when building large-scale applications which is why Microsoft released TypeScript to the public in 2012. It expands on the same principles behind JavaScript but now, "it allows us to write JavaScript with a set of tools called a type system that can spot potential bugs in, clarify the structure of, and help refactor our code". The first activity is the classic, Hello World! I run the tsc command in the terminal which created an identical index.js file, then input ls the confirm if that was true or false & it was there. So I ran the resultant of the JavaScript file with the node command node index.js & eureka! Hello World! was output into the console as expected. I'm off to a great start. Now I'm learning about type references. 
+
+
 # Monday, 02/19/2024
 https://www.pair.com/support/kb/using-recaptcha/
 

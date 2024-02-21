@@ -1,3 +1,9 @@
+# Wednesday, 02/21/2024
+https://www.atlassian.com/software/jira
+
+I've been meaning to open a Jira account for awhile now to start working regularly with ticketing systems for my business. Knowing the full benefits of note taking, I know that using this system will help put that knowledge to good use. Technical documentation has grown on me, as it provides insight into not only fixing bugs & troubleshooting in the past & present, but it becomes an index for the future on how to fix unique problems then too. 
+
+
 # Tuesday, 02/20/2024
 https://www.codecademy.com/learn/learn-typescript
 

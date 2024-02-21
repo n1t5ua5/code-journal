@@ -1,7 +1,7 @@
 # Wednesday, 02/21/2024
 https://www.atlassian.com/software/jira
 
-I've been meaning to open a Jira account for awhile now to start working regularly with ticketing systems for my business. Knowing the full benefits of note taking, I know that using this system will help put that knowledge to good use. Technical documentation has grown on me, as it provides insight into not only fixing bugs & troubleshooting in the past & present, but it becomes an index for the future on how to fix unique problems then too. 
+I've been meaning to open a Jira account for awhile now to start working regularly with ticketing systems for my business. Knowing the full benefits of note taking, I know that using this system will help put that knowledge to good use. Technical documentation has grown on me, as it provides insight into not only fixing bugs & troubleshooting in the past & present, but it becomes an index for the future on how to fix unique problems then too. I like the interface so far, my first project is going to be about something new I'm building. Also, the Major League Soccer season starts tonight which means I'll know soon if my 3rd party API is still working inside the MLS Monitor project. I'll call it quits once all teams have played at least one game though. 
 
 
 # Tuesday, 02/20/2024

@@ -3,7 +3,8 @@ https://confluence.atlassian.com/jira
 
 I had an epiphany that resolves a mental road block I had in my mind about a big project I've been progressively building in my spare time. I couldn't figure out what the blueprint should be for a building design but after looking at the woods in my backyard this afternoon with my cat I finally understand. I know it sounds a little bit weird at first but it's all about bioengineering hemp for food, it's tough to explain because I'm still trying to understand what's happening myself if I'm being completely honest, so I'll just leave it at that for now. I know a lot of these journal entries don't sound like hands on coding experiences each time per se, but getting these ideas that are all about the code I want to write on 'paper' first inside these markdown files really does help me put everything into perspective. So next week is going to be great now that I have a lot of this old stuff figured out already. I submitted & completed my first ticket with Jira regarding this project too which felt great. I love note taking so I think I'm going to love using this to help in that aspect too. I finished almost all of my homework due for school early, now I have time to refocus on those TypeScript & Redux courses on Codecademy this weekend. I checked my WakaTime account for the first time in a while after I updated this journal; I should really pay for the upgraded version because they have the best data about me as a programmer since it picks up everything I'm writing in VS Code; below is a chart from them. Three cheers for getting everything done!
 
-   ![image](https://github.com/n1t5ua5/code-journal/assets/110934299/94bfb66c-7fdc-41c3-a413-54640559fdd7)
+   ![image](https://github.com/n1t5ua5/code-journal/assets/110934299/76050dae-dd60-4fac-9952-c96d5cd94510)
+
 
 
 

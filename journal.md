@@ -1,3 +1,10 @@
+# Friday, 02/23/2024
+https://confluence.atlassian.com/jira
+
+I had an epiphany that resolves a road block I had in my mind about a big project I've been progressively building. I couldn't figure out what the blueprint should be for a building design but after looking at the woods in my backyard this afternoon with my cat I finally understand. I know it sounds a little bit weird at first but it's all about bioengineering hemp for food, it's tough to explain because I'm still trying to understand what's going on myself, so I'll just leave it at that for now. I know a lot of these journal entries don't sound like hands on coding experiences each time per se, but getting these ideas that are all about the code I want to write on 'paper' first inside these markdown files really does help me put everything into perspective. So next week is going to be great now that I have a lot of this old stuff figured out already. I wrote my first ticket with Jira regarding this thing too which was cool. I love note taking so I think I'm going to love using this to help in that process too. I finished almost all of my homework due for school for the next few weeks, so I have time to refocus on those TypeScript & Redux courses on Codecademy this weekend as well. Three cheers for getting everything done. 
+
+
+
 # Thursday, 02/22/2024
 https://www.google.com/recaptcha/admin/
 

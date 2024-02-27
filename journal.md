@@ -1,3 +1,9 @@
+# Tuesday, 02/27/2024
+https://hack-reactor-hacks-18.gitlab.io/mls-monitor/
+
+Pleased to report that the ol' soccer project is properly pulling data from the API for the new season! There will always be some stretch goals worth accomplishing to make the app a little cleaner, but everything is working & I'm happy with that for now. Considering everything worked for this new season, next season when San Diego FC makes their Major League Soccer debut they should automatically appear underneath the Western Conference section so long as the API administrator (UnlimitedAPI) integrates them in time. I will check in on this in about six months from now to ensure the database doesn't pause on us again for inactivity & then re-check in 2025 for SDFC. Other than that, enjoy everybody!!
+
+
 # Friday, 02/23/2024
 https://confluence.atlassian.com/jira
 

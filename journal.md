@@ -1,3 +1,10 @@
+# Monday, 03/04/2024
+https://codecademy.com
+
+I'm in the midst of moving so I'm not doing a ton of hands on coding these next two weeks but I still managed to reach a new milestone this morning! I hit a 365 day streak using Duoling + I've used Codecademy for 365 days altogether too. Every day when I wake up I do three things: pet my cat, open my Duolingo app, then Codecademy. It's obvious why my cat comes first, but the other too come next before everything else I need to start my day because it truly helps wake me up & start learning at the smallest level possible which makes getting the bigger tasks done seem a lot easier. I highly recommend using them to anybody with a busy schedule or wanting to learn more in their spare time.
+
+
+
 # Tuesday, 02/27/2024
 https://hack-reactor-hacks-18.gitlab.io/mls-monitor/
 

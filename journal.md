@@ -1,8 +1,13 @@
+# Monday, 03/11/2024
+https://www.sololearn.com
+
+Back in the Winter I had started regularly using another app on my phone called Sololearn to practice more hands on coding in my spare time but as my cell phone deteriorated & I got caught up in some other projects I stopped using it. But now that I have a new phone I downloaded it again & reembarked on my 'solojourney'. I generally start from the bottom in any sort of learning course but after a few years of practice, I can confidentally say that I know a lot of this stuff already. In general, I am still very much a junior engineer but in regards to this first crash course from them about general web development, I'm set. Today's lesson was just about identifying different HTML elements like H1, H2 & P. It feels good reinforcing these foundational concepts though! I'm going to have to go through their catalog one more time though to challenge myself a little more
+
+
 # Monday, 03/04/2024
 https://codecademy.com
 
-I'm in the midst of moving so I'm not doing a ton of hands on coding these next two weeks but I still managed to reach a new milestone this morning! I hit a 365 day streak using Duoling + I've used Codecademy for 365 days altogether too. Every day when I wake up I do three things: pet my cat, open my Duolingo app, then Codecademy. It's obvious why my cat comes first, but the other too come next before everything else I need to start my day because it truly helps wake me up & start learning at the smallest level possible which makes getting the bigger tasks done seem a lot easier. I highly recommend using them to anybody with a busy schedule or wanting to learn more in their spare time.
-
+I'm in the midst of moving so I'm not doing a ton of hands on coding these next two weeks but I still managed to reach a new milestone this morning! I hit a 365 day streak using Duolingo + I've used Codecademy for 365 days altogether too. Every day when I wake up I do three things: pet my cat, open my Duolingo app, then Codecademy. It's obvious why my cat comes first, but the other too come next before everything else I need to start my day because it truly helps to wake me up & start learning at the smallest level possible which makes getting the bigger tasks done seem a lot easier. I highly recommend using them to anybody with a busy schedule or wanting to learn more in their spare time.
 
 
 # Tuesday, 02/27/2024
@@ -17,8 +22,6 @@ https://confluence.atlassian.com/jira
 I had an epiphany that resolves a mental road block I had in my mind about a big project I've been progressively building in my spare time. I couldn't figure out what the blueprint should be for a building design but after looking at the woods in my backyard this afternoon with my cat I finally understand. I know it sounds a little bit weird at first but it's all about bioengineering hemp for food, it's tough to explain because I'm still trying to understand what's happening myself if I'm being completely honest, so I'll just leave it at that for now. I know a lot of these journal entries don't sound like hands on coding experiences each time per se, but getting these ideas that are all about the code I want to write on 'paper' first inside these markdown files really does help me put everything into perspective. So next week is going to be great now that I have a lot of this old stuff figured out already. I submitted & completed my first ticket with Jira regarding this project too which felt great. I love note taking so I think I'm going to love using this to help in that aspect too. I finished almost all of my homework due for school early, now I have time to refocus on those TypeScript & Redux courses on Codecademy this weekend. I checked my WakaTime account for the first time in a while after I updated this journal; I should really pay for the upgraded version because they have the best data about me as a programmer since it picks up everything I'm writing in VS Code; below is a chart from them. Three cheers for getting everything done!
 
    ![image](https://github.com/n1t5ua5/code-journal/assets/110934299/76050dae-dd60-4fac-9952-c96d5cd94510)
-
-
 
 
 # Thursday, 02/22/2024

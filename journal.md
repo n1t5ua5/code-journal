@@ -1,3 +1,9 @@
+# Tuesday, 03/19/2024
+https://www.palmbeachstate.edu/
+
+School is closed today but that doesn't mean I'm off! Moving into a new place to live along with finishing my first semester of college has been a little more time consuming than expected so next week I'll finally be ready to get back to some hands-on coding. In the meantime, I can finally register for classes for the next semester. I want to meet with my advisor one more time, but I think the one titled Microcomputer Operating Systems is the right fit for me given I pass the Microcomputer Applications course I'm currently taking. My final is in late April & I'm very confident that I'll pass. 
+
+
 # Monday, 03/11/2024
 https://www.sololearn.com
 

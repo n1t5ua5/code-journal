@@ -1,3 +1,10 @@
+
+# Monday, 03/25/2024
+https://www.
+
+By keeping up with these micro-lessons in the morning, I hit my first 7 day streak in awhile using SoloLearn, my CodeCademy streak is now over three months long & I've surpassed 400 consecutive days on Duolingo. The numbers don't mean a ton, but I'm proud of myself for keeping up this effort because it's truly changed my daily mindset especially because it's one of the first things I do. Now I need to get back to Chess... I registered for a different computer course in college after speaking with my advisor. It's called Intro to Programing which I'm excited for because Microcomputer Applications has been a little mundane although I am learning about more complex subjects as I moved further into the course.
+
+
 # Tuesday, 03/19/2024
 https://www.palmbeachstate.edu/
 

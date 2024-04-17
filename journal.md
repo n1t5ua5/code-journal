@@ -1,3 +1,10 @@
+# Wednesday, 04/17/2024
+https://github.com/n1t5ua5/penguins
+
+Been incredibly busy this past month moving & finishing my first semester of college. My Microcomputer Applications course turned out to be a lot easier than expected which is somewhat of a relief although I'm ready for something more challenging with my next one, Intro to Programming. In the meantime I keep breaking my daiy streak records with my early morning coding puzzles & nearly finished a project for Nucleate Cultivate regarding cellular agriculture. The outcome wasn't as thorough as I had wanted it to be initially, but I'm grateful for this experience because it gave me a great foundation of how & where to move forward from here. I didn't have enough bandwidth to make a new application per se, but I have a lot of questions answered & now the only thing left to do is make a short video demo of the project via Loom. I'll be presenting my work ten days from now to staff / peers; I'm ready to learn more from their feedback. Hopefully I'll be accepted to attend next year again because this was an eye-opening & all-around amazing experience.
+
+Considering how much I learned from this last project with Nucleate, I now realize that there's a lot more work involved than I had previously realized - which is a good thing - but I have to finish getting my degree first before I can fully tackle those issues. In light of that, I'm going to re-visit something I've wanted to build for a really long time but conflicting schedules always got in the way. Drum roll please... a web app for an upcoming, small-size record label! It's still all in planning mode as of now, but I'm able to be as creative as I want with this one which to me is a lot more rewarding than having to stick to a very particular style of something. In the coming weeks I'll make a new repo for it specifically but until then I'm going to keep playing the new acoustic-electric guitar I just bought online. I've played enough guitars at this point to discern the difference between the good & the bad... this one is pretty damn bad... but it was cheap as hell & it's good enough to practice with at home especially because it came with it's own little amp.
+
 
 # Monday, 03/25/2024
 https://au5t1n5c0d3.com/
@@ -474,48 +481,6 @@ https://github.com/nitsua5/js30practice/commits/master
 
 Practice began today by doing something easy with arrays. I started by declraring variables set equal to an array with a list of names as
 strings. Then adding more names to the original array & comparing it with a second variable that was set equal to the previous variable.
-...here's what it looked like below..
-const players = ['Savi', 'Sage', 'Snickers']
-// declared a variable named players equal to an array of names as strings
-const team = players;
-// declared second variable equal to first variable
-console.log(players, team);
-// printed both variables in console
-team[3] = 'Sadie';
-// added a new name to team array
-...this is what i printed to the console when i input the team & players variables...
-(4) ['Wes', 'Sarah', 'Ryan', 'Poppy']
-(4) ['Wes', 'Sarah', 'Ryan', 'Poppy']
-team
-(4) ['Wes', 'Sarah', 'Ryan', 'Sage']
-players
-(4) ['Wes', 'Sarah', 'Ryan', 'Sage']
-...utilized the .concat method to make a copy of the old array & then with an es6 spread operator... (no pun intended)
-const team4 = [...players];
-// declared variable equal to an array of a copy of players
-team4[3] = 'lee-paw';
-// added a new name to team array
-console.log(team4);
-// printed team4 array to console
-const team5 = Array.from(players);
-// declare new variable named team5 set equal to the Array.from() method which is calling the players variable
-...this is what i printed to the console when i input the team & players variables...
-team5
-(4) ['Wes', 'Sarah', 'Ryan', 'Poppy']
-team5[3] = 'cool'
-'cool'
-players
-(4) ['Wes', 'Sarah', 'Ryan', 'Poppy']
-team5
-(4) ['Wes', 'Sarah', 'Ryan', 'cool']
-The differences between references & copies seem subtle at first but after practicing in the console with making them too I now realize
-their differences in literal terms too. I will write out the code I used once more below...
-const person = {
-name: 'Sage S',
-age: 80
-};
-const captain = person;
-captain.number = 99;
 I'm running out of time to write out the code but for the next few steps I learned to copy / reference objects, but I will talk about what
 I wrote on line 99 real quick: const sage = Object.assign({}, savi);  The Object.assign() method is used to copy the properties from
 the savi object to a new object which in this case is a blank one with nothing in it by default. I'm also going to reverse the

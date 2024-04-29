@@ -1,3 +1,11 @@
+# Monday, 04/29/2024
+https://climax.bio/
+
+As soon as I finished my project for Nucleate Cultivate, I discovered a new type of plant-based cheese that uses hemp seeds as an ingredient. Of course, the discovery was without controversy of course as they were preparing to be awarded the "Good Food Award" from the Good Food Foundation but was stripped of the prize for unknown reasons shortly before they were set to recieve it. It's possible I didn't do enough research given the bandwidth I had with Team Penguin but nonetheless I'm happy to find out that at least someone else is remotely interested - & successful - at doing what I dreamt of. I'll have to keep a close eye on them & others while I experiment with my homemade recipe this Summer & await the next Nucleate Cultivate Hackathon. In the meantime I've discovered another student group that's a part of Nucleate so I'm excited to maintain this creative outlet that I discovered with them.
+
+Now that my first semester of college is completed, I'm moving onto the summer semester. I finished with an A in both classes, which I'm extremely proud of. So I'll be taking a break from most of my work & studying these next two weeks to regroup. During that time, I'll be recording an acoustic demo with my old band. We agreed to try & wrap things up right this time so we can either have this for keeps or use it to record a more well-polished EP. We have three songs we'll be working on along with an intro & an outro. After it's completed, I'm going to start working on some solo stuff that I've been wanting to finish for even longer than this little demo. We will still need to take some time editing the demo, but after the recording is done then I'm going to actually start writing some code for the new record label I wrote about it in my last entry below which I'm incredibly stoked about.
+
+
 # Wednesday, 04/17/2024
 https://github.com/n1t5ua5/penguins
 

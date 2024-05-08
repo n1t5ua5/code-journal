@@ -1,3 +1,9 @@
+# Wednesday, 05/08/2024
+https://apnews.com/article/marijuana-biden-dea-criminal-justice-pot-f833a8dae6ceb31a8658a5d65832a3b8
+
+I set a new record for consecutive days of practice on Codecademy (136) while finishing 2/3 of the SoloLearn module on web development. While I've been away from my computer, they've truly helped me to learn more in bite-size pieced pieces along with creating a healthy habit. I just finished the CSS portion on SL & now I'm moving onto JavaScript which I'm really happy about because it's been relatively easy so far even with the few new things I've picked up; like how to properly use transition & transform properties. After I complete it, I might starting using another app to completely focus on Python for a little while. I found one called Python X & it's UX design is pretty neat so I'm going to have to play around with it some more. In other news, the D.E.A. has announced a historic shift in policy whereas marijuana is set to be rescheduled from Schedule l to Schedule lll before the end of the year. This would finally legalize it's medicinal use at the federal level, which means it can also be research nationwide & that veterans will now be able to prescribe it instead of being forced to use highly addictive opioids, amongst many other benefits. As soon as next year, I might actually have the opportunity to conduct research regarding it's use in food.
+
+
 # Monday, 04/29/2024
 https://climax.bio/
 

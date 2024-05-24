@@ -1,3 +1,10 @@
+# Friday, 05/24/2024
+https://www.zybooks.com/
+
+Chugging along just fine with this new Intro to Programming class. We've only worked with Python so far & now it's looking like it'll be just that for the rest of the semester at this point which I'm pleased with because I learn the fastest through it's easy-to-decipher syntax. We've mainly been focusing on making simple print statements & defining variables to get a better grasp of the syntax through a program called zyBooks, but since I'm familiar with a lot of this already it's been pretty easy so far overall to say the least. I'm enjoying starting from scratch though because I'm able to excel instead of constantly feel like I don't know what I'm doing. Not much else to report on now though, later skater.
+
+
+
 # Thursday, 05/16/2024
 https://www.anaconda.com/
 

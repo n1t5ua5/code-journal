@@ -1,3 +1,9 @@
+# Tuesday, 06/11/2024
+https://play.google.com/store/apps/details?id=python.learnpython.learn.pythonx.coding.programming.python3.tutorials.codingx
+
+Getting overwhelmed by the amount of school work I have + my roommate moving in has kept me from fixing that error with my soccer project. I'm going to have to re-deploy it again when I find the time in the coming weeks. I finished that mini-course on the app SoloLearn I was yapping about the other week. As soon as it started to get interesting in regards to creatint logical code by using for loops, it ended. So I'm using another one via the link above to hone in on Python because that's all I'm using in college right now. Right now we're learning some more about boolean values & floating-point numbers, still pretty easy stuff so far overall thankfully.
+
+
 # Friday, 05/24/2024
 https://www.zybooks.com/
 

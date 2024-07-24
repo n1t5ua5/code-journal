@@ -1,3 +1,9 @@
+# Tuesday, 07/24/2024
+http://www.flowgorithm.org/index.html
+
+I'm almost finished with my second semester of college which makes me really proud. I chose my computer courses for next semester already too: Programming in Java, Intro to Database & Network Technologies. I just started learning about some fundamental Java concepts in Codecademy in my spare time during the morning so I've got a few facts remembered but I'm even less experienced with handling databases & networks so it'll be fun to learn a lot of new things. As far as the one computer course I'm still taking right now, I've been using a new program called Flowgorithm for a few assignments which has helped me visualize coding problems a lot; like what logic is necessary to build a tip basic calculator. My final project is about building a chat bot to respond to some questions or jokes & I think I know how I can customize it after class is over to do something a lot more useful too. There's a lot more to learn but I'm ready, onward.
+
+
 # Tuesday, 06/11/2024
 https://play.google.com/store/apps/details?id=python.learnpython.learn.pythonx.coding.programming.python3.tutorials.codingx
 

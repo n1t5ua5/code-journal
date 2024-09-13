@@ -1,3 +1,9 @@
+# Friday, 09/13/2024
+http://www.flowgorithm.org/index.html
+
+Too much time has gone by without writing in here! I just started a new semester & one of the courses I chose that's required by my degree was Programming in Java; there is also an advanced course & possibly a third. Mainly because as I've learned over the years, it's one of the most frequently used object-oriented programming languages because it can do a lot on it's own as opposed to procedural languages like JavaScript, HTML & CSS. I credit Codecademy once more for instilling some of tthe basic into me on the regular like creating projects. With the procedural languages, you write commands & variables, whereas java is a little more sctructured & essentially has it's own framework built into it. Each file must contain a class that matches the file name, "public class HelloWorld {}". Then you must input the arguments of the project inside the class like the following, "public static voic main(String[] args {}". My first project was simple but I'm proud that I'm off to a good start.
+
+
 # Tuesday, 07/24/2024
 http://www.flowgorithm.org/index.html
 

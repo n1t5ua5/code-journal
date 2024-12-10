@@ -1,5 +1,5 @@
 # Tuesday, 09/24/2024
-https://github.com/n1t5ua5/pbsc/blob/main/javaProjects/JavaJournal.java
+https://github.com/n1t5ua5/pbsc/blob/main/javaProjects/JavaJournal.md
 
 I decided to start a new code journal spefically geared towards the Java projects I'm working on this semester; same idea as here, but in Java instead of an md file. I did this because I really want to submerge myself into the world of Java to absord as much info as possible. For everything outside of Java, I'll continue documenting my code here. My other computer course is all about databases, so I re-installed MySQL for the first time in a while & I'm off to a good start using it again as well, but I will have to input more details about the specifics later. 
 

@@ -1,7 +1,15 @@
+# Tuesday, 01/07/2026
+ https://www.codecademy.com/learn/introduction-to-linux-installation
+
+Though I definitely needed a break these past few weeks, I'm happy to be back learning something new again. Java's syntax never really grew on me in regards to learnability, but I do appreciate having a solid understanding of at least one onject-oriented programming language. I'll be using it again soon but for now I'm going back to my Practices of the Python Pro book to continue reading again in my spare time, along with starting a Linux introduction course on CodeCademy to parallel the new college course that I just started taking today called Linux Fundamentals. In a few weeks I'll be starting another IT course as well, called Network Technologies. One major thing missing from this journl are screenshots, which I'll be including from here on out to showcase my progress in a more literal way. As for today, I'm mostly just reading!
+
+![image](https://github.com/user-attachments/assets/86d7e78b-d0ee-4dd7-8c13-0660ee6c8676)
+
+
 # Tuesday, 09/24/2024
 https://github.com/n1t5ua5/pbsc/blob/main/javaProjects/JavaJournal.md
 
-I decided to start a new code journal spefically geared towards the Java projects I'm working on this semester; same idea as here, but in Java instead of an md file. I did this because I really want to submerge myself into the world of Java to absord as much info as possible. For everything outside of Java, I'll continue documenting my code here. My other computer course is all about databases, so I re-installed MySQL for the first time in a while & I'm off to a good start using it again as well, but I will have to input more details about the specifics later. 
+I decided to start a new code journal spefically geared towards the Java projects I'm working on this semester; same idea as here, but inside it's own md file. I did this because I really want to submerge myself into the world of Java to absord as much info as possible & focus on nothing but that right now because I'm having a really hard time ascertaining a lot of this information.
 
 
 # Friday, 09/13/2024

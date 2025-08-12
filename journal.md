@@ -1,7 +1,13 @@
-# WINTER 2025
+# Monday, 08/11/2025
+https://youtu.be/9cr1XZlEir0
+
+My hiatus from journaling on here took a lot longer then expected. Between now & then I've read some books, finished some college courses & most importantly finally brought my portfolio to live here on GitHub. Take a look using the link above but the image below is in regards to adding an artist palette emoji (YouTube Link) to its footer by creating a new div wrapping around the old div (Flashlight Emoji) & new div with a class of footer-content, then added some new CSS properties like 'inline-block display' instead of just 'block display' to ensure they'd sit next to each other, as opposed to above or below. As for the rest of this week, I'm going to finish making some more video demos for all the different 'generations' I've projects I've made, then start preparing for the upcoming semester where I'll be taking a new Python course & another on Info Tech Project Management - wish me luck!
+
+<img width="1158" height="400" alt="image" src="https://github.com/user-attachments/assets/48607f15-aa47-4bb8-8fd2-226eeff18333" />
+
 
 # Tuesday, 01/07/2025
-https://youtu.be/9cr1XZlEir0
+https://bit.ly/46SHD9w/
 
 Though I definitely needed a break these past few weeks, I'm happy to be back learning something new again. Java's syntax never really grew on me in regards to learnability, but I do appreciate having a solid understanding of at least one onject-oriented programming language. I'll be using it again soon but for now I'm going back to my Practices of the Python Pro book to continue reading again in my spare time, along with starting a Linux introduction course on CodeCademy to parallel the new college course that I just started taking today called Linux Fundamentals. In a few weeks I'll be starting another IT course as well, called Network Technologies. One major thing missing from this journl are screenshots, which I'll be including from here on out to showcase my progress in a more literal way. As for today, I'm mostly just reading, but ended it watching an interesting YouTube video suggested by my new professor.
 
@@ -36,7 +42,6 @@ Getting overwhelmed by the amount of school work I have + my roommate moving in 
 https://www.zybooks.com/
 
 Chugging along just fine with this new Intro to Programming class. We've only worked with Python so far & now it's looking like it'll be just that for the rest of the semester at this point which I'm pleased with because I learn the fastest through it's easy-to-decipher syntax. We've mainly been focusing on making simple print statements & defining variables to get a better grasp of the syntax through a program called zyBooks, but since I'm familiar with a lot of this already it's been pretty easy so far overall to say the least. I'm enjoying starting from scratch though because I'm able to excel instead of constantly feel like I don't know what I'm doing. Not much else to report on now though, later skater.
-
 
 
 # Thursday, 05/16/2024

@@ -1,17 +1,19 @@
-# Monday, 08/11/2025
-https://bit.ly/46SHD9w
+# Tuesday, 08/12/2025 / https://bit.ly/46SHD9w
+<img width="327" height="228" alt="image" src="https://github.com/user-attachments/assets/e6658ed4-1455-4300-9309-1ddaffc56652" />
+
+Spent the morning & afternoon finishing getting all of my projects organized for making these demo videos. It took a little longer than anticipated because I wanted to make sure that I had mostly everything in the videos on here as well, which took an hour or so working locally inside my terminal with Git to get everything compatible with what's on GitHub. This also included writing & editing some more technical documentation. But now that five out of the six videos are done, I only need to finish one more, but I won't do this until I finish working with my friend on getting that last project deployed live with it's own host because the previous system stopped functioning randomly earlier in 2024. I don't have an exact timeline on when that will be done precisely, but it should be finished before the month of October starts. Until then, I need to make four different proto-type landing pages for clients & prepare for this upcoming semester. But I won't be starting those things until next week so I haven't decided on any of the technical specifications yet either.
+
+
+# Monday, 08/11/2025 / https://bit.ly/46SHD9w
+<img width="1158" height="400" alt="image" src="https://github.com/user-attachments/assets/48607f15-aa47-4bb8-8fd2-226eeff18333" />
 
 My hiatus from journaling on here took a lot longer then expected. Between now & then I've read some books, finished some college courses & most importantly finally brought my portfolio to live here on GitHub. Take a look using the link above but the image below is in regards to adding an artist palette emoji (YouTube Link) to its footer by creating a new div wrapping around the old div (Flashlight Emoji) & new div with a class of footer-content, then added some new CSS properties like 'inline-block display' instead of just 'block display' to ensure they'd sit next to each other, as opposed to above or below. As for the rest of this week, I'm going to finish making some more video demos for all the different 'generations' I've projects I've made, then start preparing for the upcoming semester where I'll be taking a new Python course & another on Info Tech Project Management - wish me luck!
 
-<img width="1158" height="400" alt="image" src="https://github.com/user-attachments/assets/48607f15-aa47-4bb8-8fd2-226eeff18333" />
 
-
-# Tuesday, 01/07/2025
-https://youtu.be/9cr1XZlEir0
+# Tuesday, 01/07/2025 / https://youtu.be/9cr1XZlEir0
+![image](https://github.com/user-attachments/assets/86d7e78b-d0ee-4dd7-8c13-0660ee6c8676)
 
 Though I definitely needed a break these past few weeks, I'm happy to be back learning something new again. Java's syntax never really grew on me in regards to learnability, but I do appreciate having a solid understanding of at least one onject-oriented programming language. I'll be using it again soon but for now I'm going back to my Practices of the Python Pro book to continue reading again in my spare time, along with starting a Linux introduction course on CodeCademy to parallel the new college course that I just started taking today called Linux Fundamentals. In a few weeks I'll be starting another IT course as well, called Network Technologies. One major thing missing from this journl are screenshots, which I'll be including from here on out to showcase my progress in a more literal way. As for today, I'm mostly just reading, but ended it watching an interesting YouTube video suggested by my new professor.
-
-![image](https://github.com/user-attachments/assets/86d7e78b-d0ee-4dd7-8c13-0660ee6c8676)
 
 
 # Tuesday, 09/24/2024

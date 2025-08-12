@@ -1,5 +1,5 @@
 # Monday, 08/11/2025
-https://youtu.be/9cr1XZlEir0
+https://bit.ly/46SHD9w/
 
 My hiatus from journaling on here took a lot longer then expected. Between now & then I've read some books, finished some college courses & most importantly finally brought my portfolio to live here on GitHub. Take a look using the link above but the image below is in regards to adding an artist palette emoji (YouTube Link) to its footer by creating a new div wrapping around the old div (Flashlight Emoji) & new div with a class of footer-content, then added some new CSS properties like 'inline-block display' instead of just 'block display' to ensure they'd sit next to each other, as opposed to above or below. As for the rest of this week, I'm going to finish making some more video demos for all the different 'generations' I've projects I've made, then start preparing for the upcoming semester where I'll be taking a new Python course & another on Info Tech Project Management - wish me luck!
 
@@ -7,7 +7,7 @@ My hiatus from journaling on here took a lot longer then expected. Between now &
 
 
 # Tuesday, 01/07/2025
-https://bit.ly/46SHD9w/
+https://youtu.be/9cr1XZlEir0
 
 Though I definitely needed a break these past few weeks, I'm happy to be back learning something new again. Java's syntax never really grew on me in regards to learnability, but I do appreciate having a solid understanding of at least one onject-oriented programming language. I'll be using it again soon but for now I'm going back to my Practices of the Python Pro book to continue reading again in my spare time, along with starting a Linux introduction course on CodeCademy to parallel the new college course that I just started taking today called Linux Fundamentals. In a few weeks I'll be starting another IT course as well, called Network Technologies. One major thing missing from this journl are screenshots, which I'll be including from here on out to showcase my progress in a more literal way. As for today, I'm mostly just reading, but ended it watching an interesting YouTube video suggested by my new professor.
 

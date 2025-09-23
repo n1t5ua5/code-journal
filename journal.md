@@ -1,6 +1,8 @@
 # Monday, 09/22/2024
 https://www.freecodecamp.org/news/start-a-career-in-technical-writing-through-open-source/ 📝
 
+<img width="892" height="471" alt="image" src="https://github.com/user-attachments/assets/09f3fe80-eca4-4de5-b69f-4ca43681c92b" />
+
 After a long day & evening of studying the basics of Linux once more for my college course, I found a lot of inspiration in reading more about technical writing via FreeCodeCamp. Through my background in marketing & writing newsletters, I've grown accustomed to writing out what I've done while I code. While I still might not be an expert technical writer myself, I know it's within my ability to bridge the gap between developers & users by explaining every step or process in a concise manner.
 
 Next week I'll begin contributing to an open source project of my own choosing, so I can reengage in technical writing for others. This almost feels like being a Wikipedia editor & translating articles from language to another, but this is a little more complex & fulfilling to me. If you have any suggestions or experience in technical writing, please reach out so we can connect! As a side note, the new FreeCodeCamp app is amazing too; the daily coding challenges they provide are helping build my confidence in myself, particularly with Python.
@@ -8,6 +10,7 @@ Next week I'll begin contributing to an open source project of my own choosing, 
 
 # Tuesday, 08/12/2025
 https://bit.ly/46SHD9w 🎬
+
 <img width="327" height="228" alt="image" src="https://github.com/user-attachments/assets/e6658ed4-1455-4300-9309-1ddaffc56652" />
 
 Spent the morning & afternoon finishing getting all of my projects organized for making these demo videos. It took a little longer than anticipated because I wanted to make sure that I had mostly everything in the videos on here as well, which took an hour or so working locally inside my terminal with Git to get everything compatible with what's on GitHub. This also included writing & editing some more technical documentation. But now that five out of the six videos are done, I only need to finish one more, but I won't do this until I finish working with my friend on getting that last project deployed live with it's own host because the previous system stopped functioning randomly earlier in 2024. I don't have an exact timeline on when that will be done precisely, but it should be finished before the month of October starts. Until then, I need to make four different proto-type landing pages for clients & prepare for this upcoming semester. But I won't be starting those things until next week so I haven't decided on any of the technical specifications yet either.

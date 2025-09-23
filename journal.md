@@ -1,9 +1,9 @@
 # Monday, 09/22/2024
 https://www.freecodecamp.org/news/start-a-career-in-technical-writing-through-open-source/ 📝
 
-After a long day & evening of studying the basics of Linux once more for my college course, I found a lot of inspiration in reading more about technical writing via FreeCodeCamp. Through my background in writing newsletters, I'm able to bridge the gap between developer & user by explaining every step or process in a concise manner.
+After a long day & evening of studying the basics of Linux once more for my college course, I found a lot of inspiration in reading more about technical writing via FreeCodeCamp. Through my background in marketing & writing newsletters, I've grown accustomed to writing out what I've done while I code. While I still might not be an expert technical writer myself, I know it's within my ability to bridge the gap between developers & users by explaining every step or process in a concise manner.
 
-Next week I'll begin contributing to an open source project of my choosing, which almost feels like Wikipedia (of which I already regularly edit for random tidbits of information). If you have any suggestions or experience in technical writing, please reach out so we can connect! As a side note, the new FreeCodeCamp app is amazing too; the daily coding challenges they provide are helping build my confidence in myself as a programmer & technical writer. 
+Next week I'll begin contributing to an open source project of my own choosing, so I can reengage in technical writing for others. This almost feels like being a Wikipedia editor & translating articles from language to another, but this is a little more complex & fulfilling to me. If you have any suggestions or experience in technical writing, please reach out so we can connect! As a side note, the new FreeCodeCamp app is amazing too; the daily coding challenges they provide are helping build my confidence in myself, particularly with Python.
 
 
 # Tuesday, 08/12/2025

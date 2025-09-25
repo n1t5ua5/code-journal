@@ -1,3 +1,11 @@
+## Thursday, 09/25/2025 🐍
+https://youtu.be/g1AFlLhgMR8?si=GDUwlqEKlTjj5xRo
+
+<img width="1014" height="456" alt="image" src="https://github.com/user-attachments/assets/d4a0d934-5581-4f63-8e43-7ee830730f36" />
+
+I cannot express how fulfilling it's been for me to start working with a tutor again. Thankfully someone at my school has been working with me this semester because although a lot of the stuff I'm learning about in my Python class so far isn't necessarily new to me, I'm still a little shaky when it comes to hands on coding. My biggest issue continues to be having difficulty parsing the questions from english into code when I'm given a blank canvass but I know I have to overcome this through practice. But for now & the foreseeable future, I can't imagine doing this 100% on my own. Above is one of the YouTube lessons we watched for my class this module & beneath that is a screenshot of some of the code I wrote out during it, it's about the differences between for loops & while loops. The biggest takeaway for me was clearly seeing how for loops are best used when you already know how many times you must iterate, while loops on the other hand need you to know what conditions must be met beforehand. I worked on a different assignment with my tutor that elaborated further on using while loops with conditional statements. Until next Wednesday when I meet with my tutor next, I've got to refocus on my Linux & System Design classes which I plan on writing a little more about in here soon too. 
+
+
 ## Monday, 09/22/2024 📝
 https://www.freecodecamp.org/news/start-a-career-in-technical-writing-through-open-source/ 
 

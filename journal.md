@@ -1,3 +1,14 @@
+## Wednesday, 10/01/2025 ⌨️
+## https://www.youtube.com/watch?v=u-OmVr_fT4s&t=1s
+## https://github.com/n1t5ua5/pbsc/blob/main/linux/LinuxJournal.md
+
+<img width="928" height="873" alt="image" src="https://github.com/user-attachments/assets/877c65a0-3ce3-41fd-984d-2e0a02a1d295" />
+
+Today I worked with my tutor from college once more on some python practice problems assigned to me that involves creating functions. The YouTube video link above is one way we learned about functions before working on something similar to the assignment for Module 6, which is what I worked on with my tutor. One thing they pointed out that ties into another class I'm currently taking, Linux Fundamentals; is how they no longer use VScode for hands-on coding. Instead, they use Codespaces here inside GitHub & the terminal used by GitHub is Linux.
+
+I only have experience working inside of Windows Powershell, but after taking my Linux Fundamentals course this semester, I'm looking for other ways to practice using Linux commands in the terminal & this is the perfect way I can practice from here on out. Normally in class, I'm working from a virtual terminal anyways, so this works & functions exactly the same as I've been taught + the syntax really isn't that much different from what's used with Windows. I also started a Linux Journal to document my Linux journey specifically which is the second link above, just like I did with my Java projects from earlier this year.
+
+
 ## Thursday, 09/25/2025 🐍
 https://youtu.be/g1AFlLhgMR8?si=GDUwlqEKlTjj5xRo
 
@@ -18,7 +29,7 @@ After a long day & evening of studying the basics of Linux once more for my coll
 Next week I'll begin contributing to an open source project of my own choosing, so I can reengage in technical writing for others. This almost feels like being a Wikipedia editor & translating articles from language to another, but this is a little more complex & fulfilling to me. If you have any suggestions or experience in technical writing, please reach out so we can connect! As a side note, the new FreeCodeCamp app is amazing too; the daily coding challenges they provide are helping build my confidence in myself, particularly with Python.
 
 
-## Tuesday, 08/12/2025  🎬
+## Tuesday, 08/12/2025 🎬
 https://bit.ly/46SHD9w
 
 <img width="327" height="228" alt="image" src="https://github.com/user-attachments/assets/e6658ed4-1455-4300-9309-1ddaffc56652" />
@@ -54,25 +65,25 @@ http://www.flowgorithm.org/index.html
 Too much time has gone by without writing in here! I just started a new semester & one of the courses I chose that's required by my degree was Programming in Java; there is also an advanced course & possibly a third. Mainly because as I've learned over the years, it's one of the most frequently used object-oriented programming languages because it can do a lot on it's own as opposed to procedural languages like JavaScript, HTML & CSS. I credit Codecademy once more for instilling some of tthe basic into me on the regular like creating projects. With the procedural languages, you write commands & variables, whereas java is a little more sctructured & essentially has it's own framework built into it. Each file must contain a class that matches the file name, "public class HelloWorld {}". Then you must input the arguments of the project inside the class like the following, "public static voic main(String[] args {}". My first project was simple but I'm proud that I'm off to a good start.
 
 
-# Tuesday, 07/24/2024
+# Tuesday, 07/24/2024 ➡️
 http://www.flowgorithm.org/index.html
 
 I'm almost finished with my second semester of college which makes me really proud. I chose my computer courses for next semester already too: Programming in Java, Intro to Database & Network Technologies. I just started learning about some fundamental Java concepts in Codecademy in my spare time during the morning so I've got a few facts remembered but I'm even less experienced with handling databases & networks so it'll be fun to learn a lot of new things. As far as the one computer course I'm still taking right now, I've been using a new program called Flowgorithm for a few assignments which has helped me visualize coding problems a lot; like what logic is necessary to build a tip basic calculator. My final project is about building a chat bot to respond to some questions or jokes & I think I know how I can customize it after class is over to do something a lot more useful too. There's a lot more to learn but I'm ready, onward.
 
 
-# Tuesday, 06/11/2024
+# Tuesday, 06/11/2024 ⚽
 https://play.google.com/store/apps/details?id=python.learnpython.learn.pythonx.coding.programming.python3.tutorials.codingx
 
 Getting overwhelmed by the amount of school work I have + my roommate moving in has kept me from fixing that error with my soccer project. I'm going to have to re-deploy it again when I find the time in the coming weeks. I finished that mini-course on the app SoloLearn I was yapping about the other week. As soon as it started to get interesting in regards to creatint logical code by using for loops, it ended. So I'm using another one via the link above to hone in on Python because that's all I'm using in college right now. Right now we're learning some more about boolean values & floating-point numbers, still pretty easy stuff so far overall thankfully.
 
 
-# Friday, 05/24/2024
+# Friday, 05/24/2024 🔍
 https://www.zybooks.com/
 
 Chugging along just fine with this new Intro to Programming class. We've only worked with Python so far & now it's looking like it'll be just that for the rest of the semester at this point which I'm pleased with because I learn the fastest through it's easy-to-decipher syntax. We've mainly been focusing on making simple print statements & defining variables to get a better grasp of the syntax through a program called zyBooks, but since I'm familiar with a lot of this already it's been pretty easy so far overall to say the least. I'm enjoying starting from scratch though because I'm able to excel instead of constantly feel like I don't know what I'm doing. Not much else to report on now though, later skater.
 
 
-# Thursday, 05/16/2024
+# Thursday, 05/16/2024 ❌
 https://www.anaconda.com/
 
 Went to check on that old soccer project of mine & sadly encountered a major error; the API is not fetching data like it's supposed to even though I haven't made any updates to the project in a few weeks. In light of this, I also fixed a CSS issue that I thought had been resolved already but I was wrong as well. I had to create a new id for the Login page wrapper so the contents would span the entire width of the nav, this was done by setting max-width to 100 percent, previously the rules were overriding each other because they were using the same class name but for two different pages. Now I'm trying to debug what went wrong with the API: it could possibly be undergoing maintenence from its administrator but that doesn't seem likely (I could send them a message, but I don't see any announcement from them), it's most likely because the site is no longer deployed even though I don't exactly know how that could have happened. All the pipelines are passing in GitLab so as long as I deploy it again properly I believe it should work fine, however I need to find the correct method of doing so once more because I didn't expect to have to do this over. It's possible a dependency or two been updated again too, so I'm going to do some more research.
@@ -80,14 +91,14 @@ Went to check on that old soccer project of mine & sadly encountered a major err
 In the meantime I just started my next computer course in college - Intro to Programming. So far it seems a lot more advanced than the last course which makes me really happy. My professor instructed me to download a program called Anaconda for learning how to code better in Python. Next we launched a program called Jupyter Notebooks. I remember downloading the Jupyter application inside of VScode awhile back when I first started using it so I'm a little familiar but not entirely because I didn't use it a lot. After discovering it's utility through a walkthrough video, it seems like it could be a really useful tool, especially in regards to testing & note taking. In short it feels like if the programs Thony & Excel were combined with each other given how you can write in Python or Markdown. I was reminded how using the W + R command, followed by cmd & then hitting enter to navigate into the proper directory.
 
 
-# Wednesday, 05/08/2024
+# Wednesday, 05/08/2024 🌱
 https://apnews.com/article/marijuana-biden-dea-criminal-justice-pot-f833a8dae6ceb31a8658a5d65832a3b8
 
 I set a new record for consecutive days of practice on Codecademy (136) while finishing 2/3 of the SoloLearn module on web development that I've been working on. While I've been away from my computer, they've truly helped me learn more in bite-size pieced pieces along with creating a healthy habit. I just finished the CSS portion on SL & now I'm moving onto JavaScript which I'm really happy about because it's been relatively easy so far even with the few new things I've picked up; like how to properly use transition & transform in CSS. After I complete that, I might starting using another app to completely focus on Python for a little while. I found one called Python X & I like the UX a little more so I'm going to have to play around with it some more. In other news, the D.E.A. has announced a historic shift in policy whereas marijuana is set to be rescheduled from Schedule l to Schedule lll before the end of the year. This would finally legalize it's medicinal use at the federal level, which means it can also be researched nationwide & that veterans will now be able have it prescribe to them instead of being forced to use highly addictive opioids, amongst many other benefits. I'm feeling even more grateful that I participated in the Nucleate Cultivate Hackathon this year because my research pertained to using hemp as a main ingredient for a new type of cultivated, plant-based cheese. As soon as next year, I now might actually have the opportunity to conduct research regarding it's use in food at college now that it might actually be accessible.
 
 
 # Monday, 04/29/2024
-https://climax.bio/
+https://climax.bio/ 🧀
 
 Shortly after I finished my project for Nucleate Cultivate, I discovered a new type of plant-based cheese that uses hemp seeds as an ingredient that's made by a company in California called Climax. Of course, the discovery was without controversy as they were preparing to be awarded the "Good Food Award" from the Good Food Foundation but was stripped of the prize for unknown reasons shortly before they were set to recieve it. It's possible I didn't do enough research given the bandwidth I had with Team Penguin but nonetheless I'm happy to find out that at least someone else is remotely interested - & successful - at doing what I dreamt of. I'll have to keep a close eye on them & others while I experiment with my homemade recipe this Summer & await the next Nucleate Cultivate Hackathon.
 
@@ -96,7 +107,7 @@ Now that my first semester of college is completed, I'm moving onto the summer s
 I wanted to look up the latest Major League Soccer standings on my phone today to celebrate how Miami is Number One in the Eastern Conference right now + they're beating all the Western Conference teams by points too. But when I visited the Login page, I immediately notice how the form wasn't centered beneath the Nav. Instead it was sticking out on the right, but I think I know how to quickly fix this problem in the Login.css file. I compared it with the CreateAccount.css file & input any changes I thought would help but nothing did. So I figured I need to make a new styling decleration inside the .center-container & .wrapper classes. I tried using the calc function within the width property but that didn't do anything either. Then I remembered the box-sizing property. I created a new property inside of the .wrapper class & set the border-box to content-box. But still, nothing changed. I then used border-box instead of content-box & eureka, problem solved.
 
 
-# Wednesday, 04/17/2024
+# Wednesday, 04/17/2024 🐧
 https://github.com/n1t5ua5/penguins
 
 Been incredibly busy this past month moving & finishing my first semester of college. My Microcomputer Applications course turned out to be a lot easier than expected which is somewhat of a relief although I'm ready for something more challenging with my next one, Intro to Programming. In the meantime I keep breaking my daiy streak records with my early morning coding puzzles & nearly finished a project for Nucleate Cultivate regarding cellular agriculture. The outcome wasn't as thorough as I had wanted it to be initially, but I'm grateful for this experience because it gave me a great foundation of how & where to move forward from here. I didn't have enough bandwidth to make a new application per se, but I have a lot of questions answered & now the only thing left to do is make a short video demo of the project via Loom. I'll be presenting my work ten days from now to staff / peers; I'm ready to learn more from their feedback. Hopefully I'll be accepted to attend next year again because this was an eye-opening & all-around amazing experience.
@@ -104,7 +115,7 @@ Been incredibly busy this past month moving & finishing my first semester of col
 Considering how much I learned from this last project with Nucleate, I now realize that there's a lot more work involved than I had previously realized - which is a good thing - but I have to finish getting my degree first before I can fully tackle those issues. In light of that, I'm going to re-visit something I've wanted to build for a really long time but conflicting schedules always got in the way. Drum roll please... a web app for an upcoming, small-size record label! It's still all in planning mode as of now, but I'm able to be as creative as I want with this one which to me is a lot more rewarding than having to stick to a very particular style of something. In the coming weeks I'll make a new repo for it specifically but until then I'm going to keep playing the new acoustic-electric guitar I just bought online. I've played enough guitars at this point to discern the difference between the good & the bad... this one is pretty damn bad... but it was cheap as hell & it's good enough to practice with at home especially because it came with it's own little amp.
 
 
-# Monday, 03/25/2024
+# Monday, 03/25/2024 🖼️
 https://au5t1n5c0d3.com/
 
 By keeping up with these micro-lessons in the morning, I hit my first 7 day user streak in awhile using SoloLearn, my CodeCademy streak is now over three months long & I've surpassed 400 consecutive days on Duolingo. I'm proud of myself for keeping up this effort - it's truly changed my daily mindset especially because it's one of the first things I do every single morning besides pet my cat. Now I need to get back to my daily habit of playing Chess... I registered for a different computer course in college after speaking with my advisor. It's called Intro to Programing which I'm excited for because Microcomputer Applications has been a little mundane although we've started learning about more complex subjects as I moved further into the course like quantum computing.
@@ -112,31 +123,31 @@ By keeping up with these micro-lessons in the morning, I hit my first 7 day user
 After checking in on the app after MLS Matchday 6, I noticed that the words "Login" & "Password" started to appear out of their respective order in the Login form page. There are the two bars where you input info with the words Login & Password there by default to signify what should be input by the user, but then the words also appeared underneath each input bar. Very strange. I remember talking to my friend the other week who just started using React & was reminded of how breaking things could be easily resolved given the nature of the program which enables realtime UI updates. I went into the Login.jsx file & noticed there were Label elements made for the words "Login" & "Password", just like I had been working on this past week with this app called SoloLearn in my spare time. I removed them from the code & immediately noticed how they were also gone in my browser. I added them back in, just to make sure I was seeing things right & that's that thankfully! It's cool to see how random practice can help you easily identify different aspects in the applications we create.
 
 
-# Tuesday, 03/19/2024
+# Tuesday, 03/19/2024 🖥️
 https://www.palmbeachstate.edu/
 
 School is closed today but that doesn't mean I'm off! Moving into a new place to live along with finishing my first semester of college has been a little more time consuming than expected so next week I'll finally be ready to get back to some hands-on coding. In the meantime, I can finally register for classes for the next semester. I want to meet with my advisor one more time, but I think the one titled Microcomputer Operating Systems is the right fit for me given I pass the Microcomputer Applications course I'm currently taking. My final is in late April & I'm very confident that I'll pass. 
 
 
-# Monday, 03/11/2024
+# Monday, 03/11/2024 📱
 https://www.sololearn.com
 
 Back in the Winter I had started regularly using another app on my phone called Sololearn to practice more hands on coding in my spare time but as my cell phone deteriorated & I got caught up in some other projects I stopped using it. But now that I have a new phone I downloaded it again & reembarked on my 'solojourney'. I generally start from the bottom in any sort of learning course but after a few years of practice, I can confidentally say that I know a lot of this stuff already. In general, I am still very much a junior engineer but in regards to this first crash course from them about general web development, I'm set. Today's lesson was just about identifying different HTML elements like H1, H2 & P. It feels good reinforcing these foundational concepts though! Now I'm going to go browse through their course catalog one more time though so I can challenge myself a little more than this.
 
 
-# Monday, 03/04/2024
+# Monday, 03/04/2024 ☀️
 https://codecademy.com
 
 I'm in the midst of moving so I'm not doing a ton of hands on coding these next two weeks but I still managed to reach a new milestone this morning! I hit a 365 day streak using Duolingo + I've used Codecademy for 365 days altogether too. Every day when I wake up I do three things: pet my cat, open my Duolingo app, then Codecademy. It's obvious why my cat comes first, but the other too come next before everything else I need to start my day because it truly helps to wake me up & start learning at the smallest level possible which makes getting the bigger tasks done seem a lot easier. I highly recommend using them to anybody with a busy schedule or wanting to learn more in their spare time.
 
 
-# Tuesday, 02/27/2024
+# Tuesday, 02/27/2024 🏅
 https://hack-reactor-hacks-18.gitlab.io/mls-monitor/
 
 Pleased to report that the ol' soccer project is properly pulling data from the API for the new season! There will always be some stretch goals worth accomplishing to make the app a little cleaner, but everything is working & I'm happy with that for now. Considering everything worked for this new season, next season when San Diego FC makes their Major League Soccer debut they should automatically appear underneath the Western Conference section so long as the API administrator (UnlimitedAPI) integrates them in time. I will check in on this in about six months from now to ensure the database doesn't pause on us again for inactivity & then re-check in 2025 for SDFC. Other than that, enjoy everybody!!
 
 
-# Friday, 02/23/2024
+# Friday, 02/23/2024 ⏰
 https://confluence.atlassian.com/jira
 
 I had an epiphany that resolves a mental road block I had in my mind about a big project I've been progressively building in my spare time. I couldn't figure out what the blueprint should be for a building design but after looking at the woods in my backyard this afternoon with my cat I finally understand. I know it sounds a little bit weird at first but it's all about bioengineering hemp for food, it's tough to explain because I'm still trying to understand what's happening myself if I'm being completely honest, so I'll just leave it at that for now. I know a lot of these journal entries don't sound like hands on coding experiences each time per se, but getting these ideas that are all about the code I want to write on 'paper' first inside these markdown files really does help me put everything into perspective. So next week is going to be great now that I have a lot of this old stuff figured out already. I submitted & completed my first ticket with Jira regarding this project too which felt great. I love note taking so I think I'm going to love using this to help in that aspect too. I finished almost all of my homework due for school early, now I have time to refocus on those TypeScript & Redux courses on Codecademy this weekend. I checked my WakaTime account for the first time in a while after I updated this journal; I should really pay for the upgraded version because they have the best data about me as a programmer since it picks up everything I'm writing in VS Code; below is a chart from them. Three cheers for getting everything done!
@@ -144,7 +155,7 @@ I had an epiphany that resolves a mental road block I had in my mind about a big
    ![image](https://github.com/n1t5ua5/code-journal/assets/110934299/76050dae-dd60-4fac-9952-c96d5cd94510)
 
 
-# Thursday, 02/22/2024
+# Thursday, 02/22/2024 🥅
 https://www.google.com/recaptcha/admin/
 
 Inter Miami won their game last night 2-0 against Real Salt Lake, it was a good game. I couldn't help but check to see if the MLS project had indeed started working already & it was as of this morning! I'm glad to see that, so I'll assume the rest of the teams will follow suit once they play but it looks like we're off to a good start this season. I called into Pair Networks last night to check back in on one project I was hosting because they stressed the importance of adding recaptcha to a form I made. After properly diagnosing what was happening to them, they realized that somehow, I accidentally began the process of setting up an enterprise recaptcha account instead of just a normal one for individuals. They sent me the correct link & I began the process again of fixing this form once & for all + adding in another new e-mail address instead of using Gmail to communicate with. I'm feeling really good going into the weekend knowing that my portfolio is robust & functioning properly. Time to revisit my CodeCademy course on TypeScript & Redux!

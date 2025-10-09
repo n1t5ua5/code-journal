@@ -1,3 +1,33 @@
+## Wednesday, 10/08/2025 📁
+## https://www.teamgantt.com/
+## https://www.youtube.com/watch?v=bbmWOjuFmgA
+
+<img width="940" height="448" alt="image" src="https://github.com/user-attachments/assets/56cadbfa-0436-4810-a992-0a5db5142196" />
+
+Finally finished Part 2 of my System Analysis & Design project before the submission deadline. It's tedious, but I'm enjoying going through a hypothetical scenario where I'm setting up industrial grade wi-fi for a plant nursery retail chain! I find it satisfying mostly because I'm thoroughly analyzing every single step I make & I'm accomplishing everything I set out to do. Please refer to the image above regarding the GANTT chart I made for my project. The full twelve page document also includes a feasability study, cost estimations & a prelimary investigative report - although this isn't the final product, just a draft for now.
+
+Later on in the evening I switched gears to focus on my Linux Fundamentals course. This module, we're mostly learning about filesystem management by watching youtube videos (like I added above) & working inside a virtual terminal via Cengage. Below are some of the commands that I used today specifically. I'm finding that the `sudo` command to be incredibly important when it comes to navigating in the terminal. The `sudo` command (Substitute User DO) permits a user to execute a single command with the same security privliges of another user, which is referred to as the "root" user or `superuser`. This gives administrators a safe way to perform tasks without having to log in as the root user, which reduces the chance of inflicting digital damage.
+
+We also learned about designing hard disk layout, creating partitions & I used the `fdisk`, `mount` & `unmount` commands for the first time. If I'm understanding things correctly, `fdisk` allows us to view, create, delete & manipulate disk partions (dividing a single physical hard drive into one or more seperate, independent regions) on a hard drive. Mounting is the process of attaching a separate storage drive to a specific empty branch on that tree, while unmounting is the process of detaching the storage device from its `mount` point.
+
+`su root`
+`p@ssw0rd`
+`visudo`
+`Student1   ALL=(ALL) 	ALL`
+`esc` + `:wq`
+`su Student1`
+
+`sudo fdisk /dev/sda`
+`m`
+`l`
+`q`
+`clear`
+
+`sudo mkdir /mnt/cdrom`
+`sudo mount -r -t iso9660 /dev/cdrom /mnt/cdrom`
+`ls -l /mnt/cdrom`
+
+
 ## Wednesday, 10/01/2025 ⌨️
 ## https://www.youtube.com/watch?v=u-OmVr_fT4s&t=1s
 ## https://github.com/n1t5ua5/pbsc/blob/main/linux/LinuxJournal.md
@@ -6,8 +36,7 @@
 
 Today I worked with my tutor from college once more on some python practice problems assigned to me that involves creating functions. The YouTube video link above is one way we learned about functions before working on something similar to the assignment for Module 6, which is what I worked on with my tutor. One thing they pointed out that ties into another class I'm currently taking, Linux Fundamentals; is how they no longer use VScode for hands-on coding. Instead, they use Codespaces here inside GitHub & the terminal used by GitHub is Linux.
 
-I only have experience working inside of Windows Powershell, but after taking my Linux Fundamentals course this semester, I'm looking for other ways to practice using Linux commands in the terminal & this is the perfect way I can practice from here on out. Normally in class, I'm working from a virtual terminal anyways, so this works & functions exactly the same as I've been taught + the syntax really isn't that much different from what's used with Windows. I also started a Linux Journal to document my Linux journey specifically which is the second link above, just like I did with my Java projects from earlier this year.
-
+I only have experience working inside of Windows Powershell, but after taking my Linux Fundamentals course this semester, I'm looking for other ways to practice using Linux commands in the terminal & this is the perfect way I can practice from here on out. Normally in class, I'm working from a virtual terminal anyways, so this works & functions exactly the same as I've been taught + the syntax really isn't that much different from what's used with Windows. I also started a Linux Journal to document my Linux journey specifically which is the second link above, just like I did with my Java projects from earlier this year. 
 
 ## Thursday, 09/25/2025 🐍
 https://youtu.be/g1AFlLhgMR8?si=GDUwlqEKlTjj5xRo
@@ -161,7 +190,7 @@ https://www.google.com/recaptcha/admin/
 Inter Miami won their game last night 2-0 against Real Salt Lake, it was a good game. I couldn't help but check to see if the MLS project had indeed started working already & it was as of this morning! I'm glad to see that, so I'll assume the rest of the teams will follow suit once they play but it looks like we're off to a good start this season. I called into Pair Networks last night to check back in on one project I was hosting because they stressed the importance of adding recaptcha to a form I made. After properly diagnosing what was happening to them, they realized that somehow, I accidentally began the process of setting up an enterprise recaptcha account instead of just a normal one for individuals. They sent me the correct link & I began the process again of fixing this form once & for all + adding in another new e-mail address instead of using Gmail to communicate with. I'm feeling really good going into the weekend knowing that my portfolio is robust & functioning properly. Time to revisit my CodeCademy course on TypeScript & Redux!
 
 
-# Wednesday, 02/21/2024
+# Wednesday, 02/21/2024 🌎
 https://www.atlassian.com/software/jira
 
 I've been meaning to open a Jira account for awhile now to start working regularly with ticketing systems for my business. Knowing the full benefits of note taking, I know that using this system will help put that knowledge to good use. Technical documentation has grown on me, as it provides insight into not only fixing bugs & troubleshooting in the past & present, but it becomes an index for the future on how to fix unique problems. I like the interface so far, my first ticket is going to be about something new I'm building... Also, the Major League Soccer season starts tonight which means I'll know soon if my 3rd party API is still working inside the MLS Monitor project. I'll call it quits once all teams have played at least one game though just to make sure everything is all good. But even after that I see one more potential fix that might need to take place in the future; the addition of San Diego FC to the Western Conference. The 2025 season calendar is yet to be announced, but I'll need to check in on this again then to make sure it still works. 

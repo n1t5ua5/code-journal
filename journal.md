@@ -71,7 +71,7 @@ Above is one of the video lessons from YouTube that we watched for my class this
 -----
 -----
 
-## Monday, 09/22/2024 📝
+## Monday, 09/22/2025 📝
 ## https://www.freecodecamp.org/news/start-a-career-in-technical-writing-through-open-source/ 
 
 <img width="892" height="471" alt="image" src="https://github.com/user-attachments/assets/09f3fe80-eca4-4de5-b69f-4ca43681c92b" />

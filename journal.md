@@ -1,3 +1,13 @@
+## Wednesday, 12/10/2025 ✒️
+## https://bit.ly/48OAx5e
+
+![alt text](image-1.png)
+![alt text](image.png)
+
+The Fall semester is coming to an end this week & I'm starting to feel less stressed already. I believe I did well in most of my classes, but I won't know my grades for another week or so. Next semester I'm taking three more: Algebra, Network Technologies & Security Essentials. I'm looking forward to starting them, but I just hope I get to take more in the future about Linux, Python & System Design because I enjoyed all of them this past semester. In addition to the other markdown-journal files I have in this directory, I decided to upload some of my discussion posts in their own markdown files too because they're essentially journal entries in themselves & I want to be able to reference some of the things I've learned later on before I no longer have access to them. I've also taken screenshots like the one I used above, which I added into my Notion account so I can see all the posts in their original format, along with having the text in markdown files.
+
+However, now that I have these examples from this past semester, it will be easier to replicate in the future for any new discussion posts. In addition to my YouTube account that has new videos I've uploaded from a project about Linux that I completed this past semester, I'm going to upload some of the other important projects I've completed into my repository here soon, so I can formally add them to my portfolio instead of only having them locally on my device. Shout out to my Python tutor from this past semester! They're good people & advised me to do well but they also taught me one extremely valuable lesson that's going to save me a ton of space on my computer. I was using VS code during our tutoring sessions, when they showed me how to use Codespaces here on GitHub. So instead of jumping on my local terminal by default because it seems like the quickest option, I'm going to work here on the Linux terminal in Codespaces a lot more. I also love the preview mode inside the terminal so I don't have to go back & forth as much between here & the browser! I need to mess around with it a little more tomorrow though. Online GDB is another Linux virtual terminal I learned about this past semester & I really liked using it too to officiate code that I submitted to my professors, but I will still probably keep most of my code here in GitHub. 
+
 ## Wednesday, 10/08/2025 📁
 ## https://www.teamgantt.com/
 ## https://www.youtube.com/watch?v=bbmWOjuFmgA
@@ -30,13 +40,13 @@ We also learned about designing hard disk layout, creating partitions & I used t
 
 ## Wednesday, 10/01/2025 ⌨️
 ## https://www.youtube.com/watch?v=u-OmVr_fT4s&t=1s
-## https://github.com/n1t5ua5/pbsc/blob/main/linux/LinuxJournal.md
 
 <img width="928" height="873" alt="image" src="https://github.com/user-attachments/assets/877c65a0-3ce3-41fd-984d-2e0a02a1d295" />
 
 Today I worked with my tutor from college once more on some python practice problems assigned to me that involves creating functions. The YouTube video link above is one way we learned about functions before working on something similar to the assignment for Module 6, which is what I worked on with my tutor. One thing they pointed out that ties into another class I'm currently taking, Linux Fundamentals; is how they no longer use VScode for hands-on coding. Instead, they use Codespaces here inside GitHub & the terminal used by GitHub is Linux.
 
 I only have experience working inside of Windows Powershell, but after taking my Linux Fundamentals course this semester, I'm looking for other ways to practice using Linux commands in the terminal & this is the perfect way I can practice from here on out. Normally in class, I'm working from a virtual terminal anyways, so this works & functions exactly the same as I've been taught + the syntax really isn't that much different from what's used with Windows. I also started a Linux Journal to document my Linux journey specifically which is the second link above, just like I did with my Java projects from earlier this year. 
+
 
 ## Thursday, 09/25/2025 🐍
 https://youtu.be/g1AFlLhgMR8?si=GDUwlqEKlTjj5xRo
@@ -345,6 +355,7 @@ Spent today reading, practicing with flash cards on Codecademy & changing the do
 
 
 # Friday, 01/12/2024
+
 https://github.com/n1t5ua5
 
 I spent the morning doing some debugging of my own code in a private repo. I kept incurring an error in the console of my browser that stated how the "Number of translated a elements does not match. applyTranslations @ main.js:66 toggleTranslation @ main.js:34 onclick @ (index):81. From that I could tell that the source of the problem originated with my applyTranslate function & how it accepted a elements. It was accepting a elements from the entire program (there are eleven pairs in total), except I only needed the a elements within the nav element that had a class of "green-button" to be translated because the program names generally don't change from english to spanish, just how they're pronounced, so I only wanted the text in the translateButton to toggle along with the h1 & h4 elements to change. I altered the right variables inside of main.js to reflect their proper order & then altered the applyTranslate function so it only accepted those specific a elements. It took awhile to reconfigure it correctly + I had to alter the toggleTranslation function & the onClick event in a similar fashion.

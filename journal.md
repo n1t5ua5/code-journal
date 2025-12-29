@@ -1,8 +1,8 @@
 ## Wednesday, 12/11/2025 ✒️
 ## https://bit.ly/48OAx5e
 
-![alt text](image-1.png)
-![alt text](image.png)
+![alt text](https://github.com/n1t5ua5/code-journal/raw/main/image-1.png)
+![alt text](https://github.com/n1t5ua5/code-journal/raw/main/image.png)
 
 The Fall semester is coming to an end this week & I'm starting to feel less stressed already. I believe I did well in most of my classes, but I won't know my grades for another week or so. Next semester I'm taking three more: Algebra, Network Technologies & Security Essentials. I'm looking forward to starting them, but I just hope I get to take more in the future about Linux, Python & System Design because I enjoyed all of them this past semester. In addition to the other markdown-journal files I have in this directory, I decided to upload some of my discussion posts in their own markdown files too because they're essentially journal entries in themselves & I want to be able to reference some of the things I've learned later on before I no longer have access to them. I've also taken screenshots like the one I used above, which I added into my Notion account so I can see all the posts in their original format, along with having the text in markdown files.
 

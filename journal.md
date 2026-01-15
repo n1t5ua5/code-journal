@@ -3,7 +3,7 @@
 -----
 -----
 
-## Tuesday, 1/13/2026 🔢
+## Tuesday, 1/13/2026 🛜
 https://bit.ly/4bwuqFm
 
 

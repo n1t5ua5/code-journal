@@ -1,9 +1,20 @@
+## Friday, 05/08/2026 🪴
+https://bit.ly/4tkrvFj
+
+
+<img width="730" height="730" alt="image" src="https://github.com/user-attachments/assets/b86ffaae-793a-493f-bb23-ffe0923cf951" />
+
+
+Another semester is down & now it's on to the next. No major surprises in my course selection this go-around, other than Intro to C. I wasn't planning on learning another programming language before finishing my degree, but it's helping me obtain a certification alongside my studies. While I haven't written much in C yet, learning the basics on Codecademy & FreeCodeCamp have been super helpful so far. Reflecting on the previous semester, I’ve realized how much my interest in cybersecurity grew after taking my Security Essentials course. I won't have any related courses for the next two semesters, but I look forward to exploring the field further during my graduate degree.
+
+For my final project in that Security Essentials class, I created a video presentation about Security Through Obscurity (STO). I’ve always believed that 'camouflage' is an effective tool, provided it’s recognized as a single layer of a broader security approach rather than a total fix. STO helps in reducing attack surface & defending a system through multiple layers. Outside of tech, I’ve been working in the garden a lot recently & finally harvested enough plants to create a powdered fertilizer. I can’t wait to write more about this in the coming months because soon I'll have enough product to sell at the farmer's markets & online!
+
 -----
 -----
 -----
 
 ## Tuesday, 02/10/2026 🌤️
-https://www.cloudns.net/blog/domain-parking/
+https://bit.ly/4dvniK2
 
 
 <img width="538" height="288" alt="image" src="https://github.com/user-attachments/assets/9a7b50b0-c7b3-42ec-ba87-265b5537871d" />

@@ -2,7 +2,7 @@
 https://www.api-football.com/
 
 
-<img width="730" height="730" alt="image" src="https://github.com/user-attachments/assets/ea3f250d-b6e1-45a6-824a-9230bb89b04d" />
+<img width="1641" height="632" alt="apiFootballimage" src="https://github.com/user-attachments/assets/15bf31e8-921d-4c6d-8cb3-7cd4a6986a7d" />
 
 
 I want to write another journal entry today because I'm not going to be using this as much in the near future once I finish a small how-to video today. Despite not achieving my goal of writing something inside here once per month, I'm more than proud of the input I've managed to accomplish so far. However, I need to transition from computers into mathematics due to my coursework at college. While I'll always dabble in web development in the background & write more about the things I learn, for the sake of brevity, I can't afford to shift my attention beyond math for now. I know I can still write about math too, but for now I prefer to use any of my free time towards working with a math tutor. I'm not sure exactly when I'll write inside here again in the near term, but I predict finishing all of that coursework by around this time next year. Until then, folks! 

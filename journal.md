@@ -1,3 +1,21 @@
+## Tuesday, 11/3/2026 🗳️
+https://accessibility-widget.pages.dev/
+
+
+<img width="1913" height="896" alt="image" src="https://github.com/user-attachments/assets/31e8d20d-25a7-4eda-9349-f80539cd5472" />
+
+
+Hey y'all, I didn't forget about my last entry & there's even been a few times I've wanted to jump back in here & write a little, but today calls for a small, but necessary update to one of the main domains that I manage. I've already added widgets for users to update either/both language & cookie preferences awhile back, but I've been dwelling internally about the lack of options for people with other accessibility preferences & knew I could find a quick fix after recalling how easy it was to input the other two I customized. I searched online & found the website tagged above, but I'm sure there are other good options out there, I just needed a quick, reliable fix because the overhaul this site needs won't take place for at least another six months (or, maybe even up to one year depending on my workload in 2027). Other than that, college is going well overall still, though I'm definitely tiring of this never ending flow of classwork. However, that will be ending in 2027 when I switch from attending as a full-time student, to part-time.
+
+Once I got the right code snippet from the website I previously references, I logged onto my Weebly site editor & went inside the site settings, input the snippet & published the site again to make the updates live. Immediately I noticed a major problem in the browser, the new widget was now appearing underneath the cookie widget. After applying different in-line styling methods to the snippet such as bottom-left, I figured I should just update the CSS of these objects directly because there wasn't any pre-existing styling done to the cookie widget anyways, so this new fix should be quick. I also knew that while I haven't looked quite yet, there's no way that this - or a similar issue - was occurring with the mobile version, but I wanted to focus on that part last. I created two new classes for both of the widgets inside the CSS section for my site's footer code & then adjusted their positioning accordingly. The only micro-issue I faced there was taking a little longer to adjust the pixel size for the bottom positioning of the cookie widget, but that's all thankfully. Then I published the site again to ensure the changes were made live & eureka! Those changes are pictured in the screenshot above. Afterwards, I went inside the mobile CSS section & input a media tag which encapsulated the rest of the mobile CSS code. I published the site once more & then I viewed the project through the browser on my mobile device & was successful.
+
+On a separate note, today's election day in the United States, so don't forget to get out there & VOTE everybody; see ya next year!
+
+
+-----
+-----
+-----
+
 ## Monday, 07/13/2026 💤
 https://www.api-football.com/
 
